@@ -1,6 +1,15 @@
 # 🚢 Titanic Survivors Analysis Dashboard
 
-![Titanic Dashboard Preview](titanic_preview.png)
+<div align="center">
+ 
+ 
+  <p>
+    <a href="https://public.tableau.com/app/profile/dinesh.barri8170/viz/TitanicSurvivorsAnalysisDashboard/TitanicPassengersOverview" target="_blank">
+      🚀 Live Tableau Dashboard
+    </a>
+  </p>
+  <img src="titanic_preview.png" alt="Tableau Dashboard Preview" width="80%" style="border-radius:12px; border:2px solid #ccc; margin-top:10px;">
+</div>
 
 ## 📊 Project Overview
 
