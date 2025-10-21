@@ -1,0 +1,1308 @@
+﻿Class,Fare Groups,Sex,Survived,Town,Age Groups,Name,Age,Fare,Number of Records
+1st,£200-300,Female,Survived,Southampton,21-30yrs,"Allen, Miss. Elisabeth Walton",29,211.3375,1
+1st,£100-200,Male,Survived,Southampton,<1yrs,"Allison, Master. Hudson Trevor",0.9167,151.55,1
+1st,£100-200,Female,Died,Southampton,1-10yrs,"Allison, Miss. Helen Loraine",2,151.55,1
+1st,£100-200,Male,Died,Southampton,21-30yrs,"Allison, Mr. Hudson Joshua Creighton",30,151.55,1
+1st,£100-200,Female,Died,Southampton,21-30yrs,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25,151.55,1
+1st,<£50,Male,Survived,Southampton,41-50yrs,"Anderson, Mr. Harry",48,26.55,1
+1st,£50-100,Female,Survived,Southampton,61-70yrs,"Andrews, Miss. Kornelia Theodosia",63,77.9583,1
+1st,<£50,Male,Died,Southampton,31-40yrs,"Andrews, Mr. Thomas Jr",39,0,1
+1st,£50-100,Female,Survived,Southampton,51-60yrs,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53,51.4792,1
+1st,<£50,Male,Died,Cherbourg,71-80yrs,"Artagaveytia, Mr. Ramon",71,49.5042,1
+1st,£200-300,Male,Died,Cherbourg,41-50yrs,"Astor, Col. John Jacob",47,227.525,1
+1st,£200-300,Female,Survived,Cherbourg,11-20yrs,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18,227.525,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Aubart, Mme. Leontine Pauline",24,69.3,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Barber, Miss. Ellen ""Nellie""",26,78.85,1
+1st,<£50,Male,Survived,Southampton,71-80yrs,"Barkworth, Mr. Algernon Henry Wilson",80,30,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Baumann, Mr. John D",,25.925,1
+1st,£200-300,Male,Died,Cherbourg,21-30yrs,"Baxter, Mr. Quigg Edmond",24,247.5208,1
+1st,£200-300,Female,Survived,Cherbourg,41-50yrs,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50,247.5208,1
+1st,£50-100,Female,Survived,Cherbourg,31-40yrs,"Bazzani, Miss. Albina",32,76.2917,1
+1st,£50-100,Male,Died,Cherbourg,31-40yrs,"Beattie, Mr. Thomson",36,75.2417,1
+1st,£50-100,Male,Survived,Southampton,31-40yrs,"Beckwith, Mr. Richard Leonard",37,52.5542,1
+1st,£50-100,Female,Survived,Southampton,41-50yrs,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47,52.5542,1
+1st,<£50,Male,Survived,Cherbourg,21-30yrs,"Behr, Mr. Karl Howell",26,30,1
+1st,£200-300,Female,Survived,Cherbourg,41-50yrs,"Bidois, Miss. Rosalie",42,227.525,1
+1st,£200-300,Female,Survived,Southampton,21-30yrs,"Bird, Miss. Ellen",29,221.7792,1
+1st,<£50,Male,Died,Cherbourg,21-30yrs,"Birnbaum, Mr. Jakob",25,26,1
+1st,£50-100,Male,Survived,Cherbourg,21-30yrs,"Bishop, Mr. Dickinson H",25,91.0792,1
+1st,£50-100,Female,Survived,Cherbourg,11-20yrs,"Bishop, Mrs. Dickinson H (Helen Walton)",19,91.0792,1
+1st,£100-200,Female,Survived,Southampton,31-40yrs,"Bissette, Miss. Amelia",35,135.6333,1
+1st,<£50,Male,Survived,Southampton,21-30yrs,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28,26.55,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Blackwell, Mr. Stephen Weart",45,35.5,1
+1st,<£50,Male,Survived,Cherbourg,31-40yrs,"Blank, Mr. Henry",40,31,1
+1st,£100-200,Female,Survived,Southampton,21-30yrs,"Bonnell, Miss. Caroline",30,164.8667,1
+1st,<£50,Female,Survived,Southampton,51-60yrs,"Bonnell, Miss. Elizabeth",58,26.55,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Borebank, Mr. John James",42,26.55,1
+1st,£200-300,Female,Survived,Cherbourg,41-50yrs,"Bowen, Miss. Grace Scott",45,262.375,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Bowerman, Miss. Elsie Edith",22,55,1
+1st,<£50,Male,Survived,Southampton,Age Unknown,"Bradley, Mr. George (""George Arthur Brayton"")",,26.55,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Brady, Mr. John Bertram",41,30.5,1
+1st,£50-100,Male,Died,Cherbourg,41-50yrs,"Brandeis, Mr. Emil",48,50.4958,1
+1st,<£50,Male,Died,Cherbourg,Age Unknown,"Brewe, Dr. Arthur Jackson",,39.6,1
+1st,<£50,Female,Survived,Cherbourg,41-50yrs,"Brown, Mrs. James Joseph (Margaret Tobin)",44,27.7208,1
+1st,£50-100,Female,Survived,Southampton,51-60yrs,"Brown, Mrs. John Murray (Caroline Lane Lamson)",59,51.4792,1
+1st,£50-100,Female,Survived,Cherbourg,51-60yrs,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",60,76.2917,1
+1st,£100-200,Female,Survived,Cherbourg,41-50yrs,"Burns, Miss. Elizabeth Margaret",41,134.5,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Butt, Major. Archibald Willingham",45,26.55,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Cairns, Mr. Alexander",,31,1
+1st,<£50,Male,Survived,Southampton,41-50yrs,"Calderhead, Mr. Edward Pennington",42,26.2875,1
+1st,<£50,Female,Survived,Cherbourg,51-60yrs,"Candee, Mrs. Edward (Helen Churchill Hungerford)",53,27.4458,1
+1st,£500-600,Male,Survived,Cherbourg,31-40yrs,"Cardeza, Mr. Thomas Drake Martinez",36,512.3292,1
+1st,£500-600,Female,Survived,Cherbourg,51-60yrs,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",58,512.3292,1
+1st,<£50,Male,Died,Southampton,31-40yrs,"Carlsson, Mr. Frans Olof",33,5,1
+1st,<£50,Male,Died,Southampton,21-30yrs,"Carrau, Mr. Francisco M",28,47.1,1
+1st,<£50,Male,Died,Southampton,11-20yrs,"Carrau, Mr. Jose Pedro",17,47.1,1
+1st,£100-200,Male,Survived,Southampton,11-20yrs,"Carter, Master. William Thornton II",11,120,1
+1st,£100-200,Female,Survived,Southampton,11-20yrs,"Carter, Miss. Lucile Polk",14,120,1
+1st,£100-200,Male,Survived,Southampton,31-40yrs,"Carter, Mr. William Ernest",36,120,1
+1st,£100-200,Female,Survived,Southampton,31-40yrs,"Carter, Mrs. William Ernest (Lucile Polk)",36,120,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Case, Mr. Howard Brown",49,26,1
+1st,<£50,Female,Survived,Cherbourg,Age Unknown,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",,27.7208,1
+1st,£50-100,Male,Died,Southampton,31-40yrs,"Cavendish, Mr. Tyrell William",36,78.85,1
+1st,£50-100,Female,Survived,Southampton,71-80yrs,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",76,78.85,1
+1st,£50-100,Male,Died,Southampton,41-50yrs,"Chaffee, Mr. Herbert Fuller",46,61.175,1
+1st,£50-100,Female,Survived,Southampton,41-50yrs,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",47,61.175,1
+1st,£50-100,Male,Survived,Southampton,21-30yrs,"Chambers, Mr. Norman Campbell",27,53.1,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33,53.1,1
+1st,£200-300,Female,Survived,Cherbourg,31-40yrs,"Chaudanson, Miss. Victorine",36,262.375,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Cherry, Miss. Gladys",30,86.5,1
+1st,<£50,Male,Survived,Cherbourg,41-50yrs,"Chevre, Mr. Paul Romaine",45,29.7,1
+1st,£50-100,Female,Survived,Southampton,Age Unknown,"Chibnall, Mrs. (Edith Martha Bowerman)",,55,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Chisholm, Mr. Roderick Robert Crispin",,0,1
+1st,£100-200,Male,Died,Cherbourg,21-30yrs,"Clark, Mr. Walter Miller",27,136.7792,1
+1st,£100-200,Female,Survived,Cherbourg,21-30yrs,"Clark, Mrs. Walter Miller (Virginia McDowell)",26,136.7792,1
+1st,£100-200,Female,Survived,Southampton,21-30yrs,"Cleaver, Miss. Alice",22,151.55,1
+1st,£50-100,Male,Died,Southampton,Age Unknown,"Clifford, Mr. George Quincy",,52,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Colley, Mr. Edward Pomeroy",47,25.5875,1
+1st,£50-100,Female,Survived,Cherbourg,31-40yrs,"Compton, Miss. Sara Rebecca",39,83.1583,1
+1st,£50-100,Male,Died,Cherbourg,31-40yrs,"Compton, Mr. Alexander Taylor Jr",37,83.1583,1
+1st,£50-100,Female,Survived,Cherbourg,61-70yrs,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",64,83.1583,1
+1st,<£50,Female,Survived,Southampton,51-60yrs,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",55,25.7,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Crafton, Mr. John Bertram",,26.55,1
+1st,£50-100,Male,Died,Southampton,61-70yrs,"Crosby, Capt. Edward Gifford",70,71,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Crosby, Miss. Harriet R",36,71,1
+1st,<£50,Female,Survived,Southampton,61-70yrs,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",64,26.55,1
+1st,£50-100,Male,Died,Cherbourg,31-40yrs,"Cumings, Mr. John Bradley",39,71.2833,1
+1st,£50-100,Female,Survived,Cherbourg,31-40yrs,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38,71.2833,1
+1st,<£50,Male,Survived,Southampton,51-60yrs,"Daly, Mr. Peter Denis",51,26.55,1
+1st,<£50,Male,Survived,Southampton,21-30yrs,"Daniel, Mr. Robert Williams",27,30.5,1
+1st,£100-200,Female,Survived,Southampton,31-40yrs,"Daniels, Miss. Sarah",33,151.55,1
+1st,£50-100,Male,Died,Southampton,31-40yrs,"Davidson, Mr. Thornton",31,52,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Davidson, Mrs. Thornton (Orian Hays)",27,52,1
+1st,£50-100,Male,Survived,Southampton,31-40yrs,"Dick, Mr. Albert Adrian",31,57,1
+1st,£50-100,Female,Survived,Southampton,11-20yrs,"Dick, Mrs. Albert Adrian (Vera Gillespie)",17,57,1
+1st,£50-100,Male,Survived,Southampton,51-60yrs,"Dodge, Dr. Washington",53,81.8583,1
+1st,£50-100,Male,Survived,Southampton,1-10yrs,"Dodge, Master. Washington",4,81.8583,1
+1st,£50-100,Female,Survived,Southampton,51-60yrs,"Dodge, Mrs. Washington (Ruth Vidaver)",54,81.8583,1
+1st,£100-200,Male,Died,Cherbourg,41-50yrs,"Douglas, Mr. Walter Donald",50,106.425,1
+1st,£200-300,Female,Survived,Cherbourg,21-30yrs,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",27,247.5208,1
+1st,£100-200,Female,Survived,Cherbourg,41-50yrs,"Douglas, Mrs. Walter Donald (Mahala Dutton)",48,106.425,1
+1st,<£50,Female,Survived,Cherbourg,41-50yrs,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48,39.6,1
+1st,£50-100,Male,Survived,Cherbourg,41-50yrs,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49,56.9292,1
+1st,<£50,Male,Died,Cherbourg,31-40yrs,"Dulles, Mr. William Crothers",39,29.7,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Earnshaw, Mrs. Boulton (Olive Potter)",23,83.1583,1
+1st,£200-300,Female,Survived,Cherbourg,31-40yrs,"Endres, Miss. Caroline Louise",38,227.525,1
+1st,£50-100,Female,Survived,Cherbourg,51-60yrs,"Eustis, Miss. Elizabeth Mussey",54,78.2667,1
+1st,<£50,Female,Died,Cherbourg,31-40yrs,"Evans, Miss. Edith Corse",36,31.6792,1
+1st,£200-300,Male,Died,Southampton,Age Unknown,"Farthing, Mr. John",,221.7792,1
+1st,<£50,Female,Survived,Southampton,Age Unknown,"Flegenheim, Mrs. Alfred (Antoinette)",,31.6833,1
+1st,£100-200,Female,Survived,Cherbourg,Age Unknown,"Fleming, Miss. Margaret",,110.8833,1
+1st,<£50,Male,Survived,Southampton,31-40yrs,"Flynn, Mr. John Irwin (""Irving"")",36,26.3875,1
+1st,<£50,Male,Died,Cherbourg,21-30yrs,"Foreman, Mr. Benjamin Laventall",30,27.75,1
+1st,£200-300,Female,Survived,Southampton,21-30yrs,"Fortune, Miss. Alice Elizabeth",24,263,1
+1st,£200-300,Female,Survived,Southampton,21-30yrs,"Fortune, Miss. Ethel Flora",28,263,1
+1st,£200-300,Female,Survived,Southampton,21-30yrs,"Fortune, Miss. Mabel Helen",23,263,1
+1st,£200-300,Male,Died,Southampton,11-20yrs,"Fortune, Mr. Charles Alexander",19,263,1
+1st,£200-300,Male,Died,Southampton,61-70yrs,"Fortune, Mr. Mark",64,263,1
+1st,£200-300,Female,Survived,Southampton,51-60yrs,"Fortune, Mrs. Mark (Mary McDougald)",60,263,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Francatelli, Miss. Laura Mabel",30,56.9292,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Franklin, Mr. Thomas Parham",,26.55,1
+1st,£100-200,Male,Survived,Southampton,41-50yrs,"Frauenthal, Dr. Henry William",50,133.65,1
+1st,<£50,Male,Survived,Cherbourg,41-50yrs,"Frauenthal, Mr. Isaac Gerald",43,27.7208,1
+1st,£100-200,Female,Survived,Southampton,Age Unknown,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",,133.65,1
+1st,<£50,Female,Survived,Cherbourg,21-30yrs,"Frolicher, Miss. Hedwig Margaritha",22,49.5,1
+1st,£50-100,Male,Survived,Cherbourg,51-60yrs,"Frolicher-Stehli, Mr. Maxmillian",60,79.2,1
+1st,£50-100,Female,Survived,Cherbourg,41-50yrs,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",48,79.2,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Fry, Mr. Richard",,0,1
+1st,£50-100,Male,Died,Southampton,31-40yrs,"Futrelle, Mr. Jacques Heath",37,53.1,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35,53.1,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Gee, Mr. Arthur H",47,38.5,1
+1st,£200-300,Female,Survived,Cherbourg,31-40yrs,"Geiger, Miss. Amalie",35,211.5,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Gibson, Miss. Dorothy Winifred",22,59.4,1
+1st,£50-100,Female,Survived,Cherbourg,41-50yrs,"Gibson, Mrs. Leonard (Pauline C Boeson)",45,59.4,1
+1st,£50-100,Male,Died,Cherbourg,21-30yrs,"Giglio, Mr. Victor",24,79.2,1
+1st,£50-100,Male,Survived,Cherbourg,41-50yrs,"Goldenberg, Mr. Samuel L",49,89.1042,1
+1st,£50-100,Female,Survived,Cherbourg,Age Unknown,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",,89.1042,1
+1st,<£50,Male,Died,Cherbourg,71-80yrs,"Goldschmidt, Mr. George B",71,34.6542,1
+1st,<£50,Male,Survived,Cherbourg,51-60yrs,"Gracie, Col. Archibald IV",53,28.5,1
+1st,<£50,Female,Survived,Southampton,11-20yrs,"Graham, Miss. Margaret Edith",19,30,1
+1st,£100-200,Male,Died,Southampton,31-40yrs,"Graham, Mr. George Edward",38,153.4625,1
+1st,£100-200,Female,Survived,Southampton,51-60yrs,"Graham, Mrs. William Thompson (Edith Junkins)",58,153.4625,1
+1st,£50-100,Male,Survived,Cherbourg,21-30yrs,"Greenfield, Mr. William Bertram",23,63.3583,1
+1st,£50-100,Female,Survived,Cherbourg,41-50yrs,"Greenfield, Mrs. Leo David (Blanche Strouse)",45,63.3583,1
+1st,£50-100,Male,Died,Cherbourg,41-50yrs,"Guggenheim, Mr. Benjamin",46,79.2,1
+1st,£50-100,Male,Survived,Cherbourg,21-30yrs,"Harder, Mr. George Achilles",25,55.4417,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Harder, Mrs. George Achilles (Dorothy Annan)",25,55.4417,1
+1st,£50-100,Male,Survived,Cherbourg,41-50yrs,"Harper, Mr. Henry Sleeper",48,76.7292,1
+1st,£50-100,Female,Survived,Cherbourg,41-50yrs,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49,76.7292,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Harrington, Mr. Charles H",,42.4,1
+1st,£50-100,Male,Died,Southampton,41-50yrs,"Harris, Mr. Henry Birkhardt",45,83.475,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35,83.475,1
+1st,<£50,Male,Died,Southampton,31-40yrs,"Harrison, Mr. William",40,0,1
+1st,£50-100,Male,Survived,Cherbourg,21-30yrs,"Hassab, Mr. Hammad",27,76.7292,1
+1st,<£50,Male,Survived,Southampton,Age Unknown,"Hawksford, Mr. Walter James",,30,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Hays, Miss. Margaret Bechstein",24,83.1583,1
+1st,£50-100,Male,Died,Southampton,51-60yrs,"Hays, Mr. Charles Melville",55,93.5,1
+1st,£50-100,Female,Survived,Southampton,51-60yrs,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52,93.5,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Head, Mr. Christopher",42,42.5,1
+1st,£50-100,Male,Died,Southampton,Age Unknown,"Hilliard, Mr. Herbert Henry",,51.8625,1
+1st,£50-100,Male,Died,Southampton,51-60yrs,"Hipkins, Mr. William Edward",55,50,1
+1st,£50-100,Female,Survived,Cherbourg,11-20yrs,"Hippach, Miss. Jean Gertrude",16,57.9792,1
+1st,£50-100,Female,Survived,Cherbourg,41-50yrs,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44,57.9792,1
+1st,£50-100,Female,Survived,Southampton,51-60yrs,"Hogeboom, Mrs. John C (Anna Andrews)",51,77.9583,1
+1st,£50-100,Male,Died,Southampton,41-50yrs,"Holverson, Mr. Alexander Oskar",42,52,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35,52,1
+1st,<£50,Male,Survived,Cherbourg,31-40yrs,"Homer, Mr. Harry (""Mr E Haven"")",35,26.55,1
+1st,£50-100,Male,Survived,Southampton,31-40yrs,"Hoyt, Mr. Frederick Maxfield",38,90,1
+1st,<£50,Male,Died,Cherbourg,Age Unknown,"Hoyt, Mr. William Fisher",,30.6958,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35,90,1
+1st,<£50,Female,Died,Cherbourg,41-50yrs,"Isham, Miss. Ann Elizabeth",50,28.7125,1
+1st,<£50,Male,Survived,Southampton,41-50yrs,"Ismay, Mr. Joseph Bruce",49,0,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Jones, Mr. Charles Cresson",46,26,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Julian, Mr. Henry Forbes",50,26,1
+1st,£200-300,Male,Died,Cherbourg,31-40yrs,"Keeping, Mr. Edwin",32.5,211.5,1
+1st,<£50,Male,Died,Cherbourg,51-60yrs,"Kent, Mr. Edward Austin",58,29.7,1
+1st,£50-100,Male,Died,Southampton,41-50yrs,"Kenyon, Mr. Frederick R",41,51.8625,1
+1st,£50-100,Female,Survived,Southampton,Age Unknown,"Kenyon, Mrs. Frederick R (Marion)",,51.8625,1
+1st,£50-100,Male,Survived,Southampton,41-50yrs,"Kimball, Mr. Edwin Nelson Jr",42,52.5542,1
+1st,£50-100,Female,Survived,Southampton,41-50yrs,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",45,52.5542,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Klaber, Mr. Herman",,26.55,1
+1st,£200-300,Female,Survived,Southampton,31-40yrs,"Kreuchen, Miss. Emilie",39,211.3375,1
+1st,<£50,Female,Survived,Southampton,41-50yrs,"Leader, Dr. Alice (Farnham)",49,25.9292,1
+1st,£100-200,Female,Survived,Cherbourg,21-30yrs,"LeRoy, Miss. Bertha",30,106.425,1
+1st,£500-600,Male,Survived,Cherbourg,31-40yrs,"Lesurer, Mr. Gustave J",35,512.3292,1
+1st,<£50,Male,Died,Cherbourg,Age Unknown,"Lewy, Mr. Ervin G",,27.7208,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",42,26.55,1
+1st,<£50,Female,Survived,Cherbourg,51-60yrs,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",55,27.7208,1
+1st,<£50,Female,Survived,Southampton,11-20yrs,"Lines, Miss. Mary Conover",16,39.4,1
+1st,<£50,Female,Survived,Southampton,51-60yrs,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",51,39.4,1
+1st,<£50,Male,Died,Southampton,21-30yrs,"Long, Mr. Milton Clyde",29,30,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Longley, Miss. Gretchen Fiske",21,77.9583,1
+1st,<£50,Male,Died,Southampton,21-30yrs,"Loring, Mr. Joseph Holland",30,45.5,1
+1st,£100-200,Female,Survived,Cherbourg,51-60yrs,"Lurette, Miss. Elise",58,146.5208,1
+1st,£200-300,Female,Survived,Southampton,11-20yrs,"Madill, Miss. Georgette Alexandra",15,211.3375,1
+1st,<£50,Male,Died,Southampton,21-30yrs,"Maguire, Mr. John Edward",30,26,1
+1st,£50-100,Female,Survived,Southampton,11-20yrs,"Maioni, Miss. Roberta",16,86.5,1
+1st,<£50,Male,Survived,Cherbourg,Age Unknown,"Marechal, Mr. Pierre",,29.7,1
+1st,£50-100,Male,Died,Southampton,11-20yrs,"Marvin, Mr. Daniel Warner",19,53.1,1
+1st,£50-100,Female,Survived,Southampton,11-20yrs,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",18,53.1,1
+1st,<£50,Female,Survived,Cherbourg,21-30yrs,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24,49.5042,1
+1st,£50-100,Male,Died,Cherbourg,41-50yrs,"McCaffry, Mr. Thomas Francis",46,75.2417,1
+1st,£50-100,Male,Died,Southampton,51-60yrs,"McCarthy, Mr. Timothy J",54,51.8625,1
+1st,<£50,Male,Survived,Southampton,31-40yrs,"McGough, Mr. James Robert",36,26.2875,1
+1st,£50-100,Male,Died,Cherbourg,21-30yrs,"Meyer, Mr. Edgar Joseph",28,82.1708,1
+1st,£50-100,Female,Survived,Cherbourg,Age Unknown,"Meyer, Mrs. Edgar Joseph (Leila Saks)",,82.1708,1
+1st,<£50,Male,Died,Southampton,61-70yrs,"Millet, Mr. Francis Davis",65,26.55,1
+1st,£50-100,Male,Died,Queenstown,41-50yrs,"Minahan, Dr. William Edward",44,90,1
+1st,£50-100,Female,Survived,Queenstown,31-40yrs,"Minahan, Miss. Daisy E",33,90,1
+1st,£50-100,Female,Survived,Queenstown,31-40yrs,"Minahan, Mrs. William Edward (Lillian E Thorpe)",37,90,1
+1st,£50-100,Male,Survived,Cherbourg,21-30yrs,"Mock, Mr. Philipp Edmund",30,57.75,1
+1st,<£50,Male,Died,Southampton,51-60yrs,"Molson, Mr. Harry Markland",55,30.5,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Moore, Mr. Clarence Bloomfield",47,42.4,1
+1st,<£50,Male,Died,Cherbourg,31-40yrs,"Natsch, Mr. Charles H",37,29.7,1
+1st,£100-200,Female,Survived,Cherbourg,31-40yrs,"Newell, Miss. Madeleine",31,113.275,1
+1st,£100-200,Female,Survived,Cherbourg,21-30yrs,"Newell, Miss. Marjorie",23,113.275,1
+1st,£100-200,Male,Died,Cherbourg,51-60yrs,"Newell, Mr. Arthur Webster",58,113.275,1
+1st,<£50,Female,Survived,Southampton,11-20yrs,"Newsom, Miss. Helen Monypeny",19,26.2833,1
+1st,<£50,Male,Died,Southampton,61-70yrs,"Nicholson, Mr. Arthur Ernest",64,26,1
+1st,£100-200,Female,Survived,Cherbourg,31-40yrs,"Oliva y Ocana, Dona. Fermina",39,108.9,1
+1st,<£50,Male,Survived,Cherbourg,Age Unknown,"Omont, Mr. Alfred Fernand",,25.7417,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Ostby, Miss. Helene Ragnhild",22,61.9792,1
+1st,£50-100,Male,Died,Cherbourg,61-70yrs,"Ostby, Mr. Engelhart Cornelius",65,61.9792,1
+1st,<£50,Male,Died,Cherbourg,21-30yrs,"Ovies y Rodriguez, Mr. Servando",28.5,27.7208,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Parr, Mr. William Henry Marsh",,0,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Partner, Mr. Austen",45.5,28.5,1
+1st,£50-100,Male,Died,Southampton,21-30yrs,"Payne, Mr. Vivian Ponsonby",23,93.5,1
+1st,£50-100,Male,Died,Southampton,21-30yrs,"Pears, Mr. Thomas Clinton",29,66.6,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Pears, Mrs. Thomas (Edith Wearne)",22,66.6,1
+1st,£100-200,Male,Died,Cherbourg,11-20yrs,"Penasco y Castellana, Mr. Victor de Satode",18,108.9,1
+1st,£100-200,Female,Survived,Cherbourg,11-20yrs,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17,108.9,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Perreault, Miss. Anne",30,93.5,1
+1st,<£50,Male,Survived,Southampton,51-60yrs,"Peuchen, Major. Arthur Godfrey",52,30.5,1
+1st,£50-100,Male,Died,Southampton,41-50yrs,"Porter, Mr. Walter Chamberlain",47,52,1
+1st,£50-100,Female,Survived,Cherbourg,51-60yrs,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56,83.1583,1
+1st,<£50,Male,Died,Southampton,31-40yrs,"Reuchlin, Jonkheer. John George",38,0,1
+1st,<£50,Male,Survived,Southampton,Age Unknown,"Rheims, Mr. George Alexander Lucien",,39.6,1
+1st,£100-200,Male,Died,Cherbourg,21-30yrs,"Ringhini, Mr. Sante",22,135.6333,1
+1st,£200-300,Male,Died,Cherbourg,Age Unknown,"Robbins, Mr. Victor",,227.525,1
+1st,£200-300,Female,Survived,Southampton,41-50yrs,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43,211.3375,1
+1st,£50-100,Male,Died,Southampton,31-40yrs,"Roebling, Mr. Washington Augustus II",31,50.4958,1
+1st,<£50,Male,Survived,Southampton,41-50yrs,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",45,26.55,1
+1st,£50-100,Male,Died,Southampton,Age Unknown,"Rood, Mr. Hugh Roscoe",,50,1
+1st,<£50,Female,Survived,Cherbourg,31-40yrs,"Rosenbaum, Miss. Edith Louise",33,27.7208,1
+1st,£50-100,Male,Died,Cherbourg,41-50yrs,"Rosenshine, Mr. George (""Mr George Thorne"")",46,79.2,1
+1st,<£50,Male,Died,Cherbourg,31-40yrs,"Ross, Mr. John Hugo",36,40.125,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33,86.5,1
+1st,£50-100,Male,Died,Cherbourg,51-60yrs,"Rothschild, Mr. Martin",55,59.4,1
+1st,£50-100,Female,Survived,Cherbourg,51-60yrs,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54,59.4,1
+1st,<£50,Male,Died,Southampton,31-40yrs,"Rowe, Mr. Alfred G",33,26.55,1
+1st,£200-300,Male,Survived,Cherbourg,11-20yrs,"Ryerson, Master. John Borie",13,262.375,1
+1st,£200-300,Female,Survived,Cherbourg,11-20yrs,"Ryerson, Miss. Emily Borie",18,262.375,1
+1st,£200-300,Female,Survived,Cherbourg,21-30yrs,"Ryerson, Miss. Susan Parker ""Suzette""",21,262.375,1
+1st,£200-300,Male,Died,Cherbourg,61-70yrs,"Ryerson, Mr. Arthur Larned",61,262.375,1
+1st,£200-300,Female,Survived,Cherbourg,41-50yrs,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",48,262.375,1
+1st,<£50,Male,Survived,Southampton,Age Unknown,"Saalfeld, Mr. Adolphe",,30.5,1
+1st,£50-100,Female,Survived,Cherbourg,21-30yrs,"Sagesser, Mlle. Emma",24,69.3,1
+1st,<£50,Male,Survived,Southampton,Age Unknown,"Salomon, Mr. Abraham L",,26,1
+1st,£50-100,Female,Survived,Cherbourg,31-40yrs,"Schabert, Mrs. Paul (Emma Mock)",35,57.75,1
+1st,<£50,Female,Survived,Cherbourg,21-30yrs,"Serepeca, Miss. Augusta",30,31,1
+1st,<£50,Male,Survived,Southampton,31-40yrs,"Seward, Mr. Frederic Kimber",34,26.55,1
+1st,£100-200,Female,Survived,Southampton,31-40yrs,"Shutes, Miss. Elizabeth W",40,153.4625,1
+1st,<£50,Male,Survived,Southampton,31-40yrs,"Silverthorne, Mr. Spencer Victor",35,26.2875,1
+1st,£50-100,Male,Died,Southampton,41-50yrs,"Silvey, Mr. William Baird",50,55.9,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Silvey, Mrs. William Baird (Alice Munger)",39,55.9,1
+1st,<£50,Male,Survived,Cherbourg,51-60yrs,"Simonius-Blumer, Col. Oberst Alfons",56,35.5,1
+1st,<£50,Male,Survived,Southampton,21-30yrs,"Sloper, Mr. William Thompson",28,35.5,1
+1st,<£50,Male,Died,Southampton,51-60yrs,"Smart, Mr. John Montgomery",56,26.55,1
+1st,<£50,Male,Died,Cherbourg,51-60yrs,"Smith, Mr. James Clinch",56,30.6958,1
+1st,£50-100,Male,Died,Southampton,21-30yrs,"Smith, Mr. Lucien Philip",24,60,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Smith, Mr. Richard William",,26,1
+1st,£50-100,Female,Survived,Southampton,11-20yrs,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",18,60,1
+1st,£50-100,Male,Survived,Southampton,21-30yrs,"Snyder, Mr. John Pillsbury",24,82.2667,1
+1st,£50-100,Female,Survived,Southampton,21-30yrs,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",23,82.2667,1
+1st,£100-200,Male,Survived,Cherbourg,1-10yrs,"Spedden, Master. Robert Douglas",6,134.5,1
+1st,£100-200,Male,Survived,Cherbourg,41-50yrs,"Spedden, Mr. Frederic Oakley",45,134.5,1
+1st,£100-200,Female,Survived,Cherbourg,31-40yrs,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40,134.5,1
+1st,£100-200,Male,Died,Cherbourg,51-60yrs,"Spencer, Mr. William Augustus",57,146.5208,1
+1st,£100-200,Female,Survived,Cherbourg,Age Unknown,"Spencer, Mrs. William Augustus (Marie Eugenie)",,146.5208,1
+1st,<£50,Male,Survived,Cherbourg,31-40yrs,"Stahelin-Maeglin, Dr. Max",32,30.5,1
+1st,<£50,Male,Died,Southampton,61-70yrs,"Stead, Mr. William Thomas",62,26.55,1
+1st,£50-100,Male,Survived,Cherbourg,51-60yrs,"Stengel, Mr. Charles Emil Henry",54,55.4417,1
+1st,£50-100,Female,Survived,Cherbourg,41-50yrs,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",43,55.4417,1
+1st,£50-100,Female,Survived,Cherbourg,51-60yrs,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52,78.2667,1
+1st,<£50,Male,Died,Cherbourg,Age Unknown,"Stewart, Mr. Albert A",,27.7208,1
+1st,£200-300,Male,Died,Southampton,61-70yrs,"Straus, Mr. Isidor",67,221.7792,1
+1st,£200-300,Female,Died,Southampton,61-70yrs,"Straus, Mrs. Isidor (Rosalie Ida Blun)",63,221.7792,1
+1st,<£50,Male,Died,Southampton,61-70yrs,"Sutton, Mr. Frederick",61,32.3208,1
+1st,<£50,Female,Survived,Southampton,41-50yrs,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48,25.9292,1
+1st,£50-100,Female,Survived,Southampton,11-20yrs,"Taussig, Miss. Ruth",18,79.65,1
+1st,£50-100,Male,Died,Southampton,51-60yrs,"Taussig, Mr. Emil",52,79.65,1
+1st,£50-100,Female,Survived,Southampton,31-40yrs,"Taussig, Mrs. Emil (Tillie Mandelbaum)",39,79.65,1
+1st,£50-100,Male,Survived,Southampton,41-50yrs,"Taylor, Mr. Elmer Zebley",48,52,1
+1st,£50-100,Female,Survived,Southampton,Age Unknown,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",,52,1
+1st,£100-200,Male,Died,Cherbourg,41-50yrs,"Thayer, Mr. John Borland",49,110.8833,1
+1st,£100-200,Male,Survived,Cherbourg,11-20yrs,"Thayer, Mr. John Borland Jr",17,110.8833,1
+1st,£100-200,Female,Survived,Cherbourg,31-40yrs,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39,110.8833,1
+1st,£50-100,Female,Survived,Cherbourg,Age Unknown,"Thorne, Mrs. Gertrude Maybelle",,79.2,1
+1st,<£50,Male,Survived,Cherbourg,31-40yrs,"Tucker, Mr. Gilbert Milligan Jr",31,28.5375,1
+1st,<£50,Male,Died,Cherbourg,31-40yrs,"Uruchurtu, Don. Manuel E",40,27.7208,1
+1st,<£50,Male,Died,Southampton,61-70yrs,"Van der hoef, Mr. Wyckoff",61,33.5,1
+1st,<£50,Male,Died,Southampton,41-50yrs,"Walker, Mr. William Anderson",47,34.0208,1
+1st,£500-600,Female,Survived,Cherbourg,31-40yrs,"Ward, Miss. Anna",35,512.3292,1
+1st,£50-100,Male,Died,Cherbourg,61-70yrs,"Warren, Mr. Frank Manley",64,75.25,1
+1st,£50-100,Female,Survived,Cherbourg,51-60yrs,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60,75.25,1
+1st,<£50,Male,Died,Southampton,51-60yrs,"Weir, Col. John",60,26.55,1
+1st,£50-100,Male,Died,Southampton,51-60yrs,"White, Mr. Percival Wayland",54,77.2875,1
+1st,£50-100,Male,Died,Southampton,21-30yrs,"White, Mr. Richard Frasar",21,77.2875,1
+1st,£100-200,Female,Survived,Cherbourg,51-60yrs,"White, Mrs. John Stuart (Ella Holmes)",55,135.6333,1
+1st,£100-200,Female,Survived,Southampton,31-40yrs,"Wick, Miss. Mary Natalie",31,164.8667,1
+1st,£100-200,Male,Died,Southampton,51-60yrs,"Wick, Mr. George Dennick",57,164.8667,1
+1st,£100-200,Female,Survived,Southampton,41-50yrs,"Wick, Mrs. George Dennick (Mary Hitchcock)",45,164.8667,1
+1st,£200-300,Male,Died,Cherbourg,41-50yrs,"Widener, Mr. George Dunton",50,211.5,1
+1st,£200-300,Male,Died,Cherbourg,21-30yrs,"Widener, Mr. Harry Elkins",27,211.5,1
+1st,£200-300,Female,Survived,Cherbourg,41-50yrs,"Widener, Mrs. George Dunton (Eleanor Elkins)",50,211.5,1
+1st,<£50,Female,Survived,Southampton,21-30yrs,"Willard, Miss. Constance",21,26.55,1
+1st,£50-100,Male,Died,Cherbourg,51-60yrs,"Williams, Mr. Charles Duane",51,61.3792,1
+1st,£50-100,Male,Survived,Cherbourg,21-30yrs,"Williams, Mr. Richard Norris II",21,61.3792,1
+1st,<£50,Male,Died,Southampton,Age Unknown,"Williams-Lambert, Mr. Fletcher Fellows",,35,1
+1st,£100-200,Female,Survived,Cherbourg,31-40yrs,"Wilson, Miss. Helen Alice",31,134.5,1
+1st,<£50,Male,Survived,Southampton,Age Unknown,"Woolner, Mr. Hugh",,35.5,1
+1st,<£50,Male,Died,Southampton,61-70yrs,"Wright, Mr. George",62,26.55,1
+1st,£100-200,Female,Survived,Cherbourg,31-40yrs,"Young, Miss. Marie Grice",36,135.6333,1
+2nd,<£50,Male,Died,Cherbourg,21-30yrs,"Abelson, Mr. Samuel",30,24,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"Abelson, Mrs. Samuel (Hannah Wizosky)",28,24,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Aldworth, Mr. Charles Augustus",30,13,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Andrew, Mr. Edgardo Samuel",18,11.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Andrew, Mr. Frank Thomas",25,10.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Angle, Mr. William A",34,26,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36,26,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Ashby, Mr. John",57,13,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Bailey, Mr. Percy Andrew",18,11.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Baimbrigge, Mr. Charles Robert",23,10.5,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Ball, Mrs. (Ada E Hall)",36,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Banfield, Mr. Frederick James",28,10.5,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Bateman, Rev. Robert James",51,12.525,1
+2nd,<£50,Male,Survived,Southampton,31-40yrs,"Beane, Mr. Edward",32,26,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Beane, Mrs. Edward (Ethel Clarke)",19,26,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Beauchamp, Mr. Henry James",28,26,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Becker, Master. Richard F",1,39,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Becker, Miss. Marion Louise",4,39,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Becker, Miss. Ruth Elizabeth",12,39,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",36,39,1
+2nd,<£50,Male,Survived,Southampton,31-40yrs,"Beesley, Mr. Lawrence",34,13,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Bentham, Miss. Lilian W",19,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Berriman, Mr. William John",23,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Botsford, Mr. William Hull",26,13,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Bowenur, Mr. Solomon",42,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Bracken, Mr. James H",27,13,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Brown, Miss. Amelia ""Mildred""",24,13,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Brown, Miss. Edith Eileen",15,39,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Brown, Mr. Thomas William Solomon",60,39,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40,39,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Bryhl, Miss. Dagmar Jenny Ingeborg",20,26,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Bryhl, Mr. Kurt Arnold Gottfrid",25,26,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Buss, Miss. Kate",36,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Butler, Mr. Reginald Fenton",25,13,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Byles, Rev. Thomas Roussel Davids",42,13,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Bystrom, Mrs. (Karolina)",42,13,1
+2nd,<£50,Male,Survived,Southampton,<1yrs,"Caldwell, Master. Alden Gates",0.8333,29,1
+2nd,<£50,Male,Survived,Southampton,21-30yrs,"Caldwell, Mr. Albert Francis",26,29,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22,29,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Cameron, Miss. Clear Annie",35,21,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Campbell, Mr. William",,0,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Carbines, Mr. William",19,13,1
+2nd,<£50,Female,Died,Southampton,41-50yrs,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44,26,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Carter, Rev. Ernest Courtenay",54,26,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Chapman, Mr. Charles Henry",52,13.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Chapman, Mr. John Henry",37,26,1
+2nd,<£50,Female,Died,Southampton,21-30yrs,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",29,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Christy, Miss. Julie Rachel",25,30,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Christy, Mrs. (Alice Frances)",45,30,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Clarke, Mr. Charles Valentine",29,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Clarke, Mrs. Charles V (Ada Maria Winfield)",28,26,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Coleridge, Mr. Reginald Charles",29,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Collander, Mr. Erik Gustaf",28,13,1
+2nd,<£50,Male,Survived,Southampton,21-30yrs,"Collett, Mr. Sidney C Stuart",24,10.5,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Collyer, Miss. Marjorie ""Lottie""",8,26.25,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Collyer, Mr. Harvey",31,26.25,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31,26.25,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Cook, Mrs. (Selena Rogers)",22,10.5,1
+2nd,<£50,Female,Died,Southampton,21-30yrs,"Corbett, Mrs. Walter H (Irene Colvin)",30,13,1
+2nd,<£50,Female,Died,Southampton,Age Unknown,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",,21,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Cotterill, Mr. Henry ""Harry""",21,11.5,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Cunningham, Mr. Alfred Fleming",,0,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Davies, Master. John Morgan Jr",8,36.75,1
+2nd,£50-100,Male,Died,Southampton,11-20yrs,"Davies, Mr. Charles Henry",18,73.5,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",48,36.75,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Davis, Miss. Mary",28,13,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"de Brito, Mr. Jose Joaquim",32,13,1
+2nd,£50-100,Male,Died,Southampton,11-20yrs,"Deacon, Mr. Percy William",17,73.5,1
+2nd,<£50,Male,Died,Cherbourg,21-30yrs,"del Carlo, Mr. Sebastiano",29,27.7208,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",24,27.7208,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Denbury, Mr. Herbert",25,31.5,1
+2nd,£50-100,Male,Died,Southampton,11-20yrs,"Dibden, Mr. William",18,73.5,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Doling, Miss. Elsie",18,23,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Doling, Mrs. John T (Ada Julia Bone)",34,23,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Downton, Mr. William James",54,26,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Drew, Master. Marshall Brines",8,32.5,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Drew, Mr. James Vivian",42,32.5,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34,32.5,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"Duran y More, Miss. Asuncion",27,13.8583,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"Duran y More, Miss. Florentina",30,13.8583,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Eitemiller, Mr. George Floyd",23,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Enander, Mr. Ingvar",21,13,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Fahlstrom, Mr. Arne Jonas",18,13,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Faunthorpe, Mr. Harry",40,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29,26,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Fillbrook, Mr. Joseph Charles",18,10.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Fox, Mr. Stanley Hubert",36,13,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Frost, Mr. Anthony Wood ""Archie""",,0,1
+2nd,<£50,Female,Died,Southampton,31-40yrs,"Funk, Miss. Annie Clemmer",38,13,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Fynney, Mr. Joseph J",35,26,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Gale, Mr. Harry",38,21,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Gale, Mr. Shadrach",34,21,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Garside, Miss. Ethel",34,13,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Gaskell, Mr. Alfred",16,26,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Gavey, Mr. Lawrence",26,10.5,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Gilbert, Mr. William",47,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Giles, Mr. Edgar",21,11.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Giles, Mr. Frederick Edward",21,11.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Giles, Mr. Ralph",24,13.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Gill, Mr. John William",24,13,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Gillespie, Mr. William Henry",34,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Givard, Mr. Hans Kristensen",30,13,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Greenberg, Mr. Samuel",52,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Hale, Mr. Reginald",30,13,1
+2nd,<£50,Male,Survived,Southampton,<1yrs,"Hamalainen, Master. Viljo",0.6667,14.5,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Hamalainen, Mrs. William (Anna)",24,14.5,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Harbeck, Mr. William H",44,13,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Harper, Miss. Annie Jessie ""Nina""",6,33,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Harper, Rev. John",28,33,1
+2nd,<£50,Male,Survived,Southampton,61-70yrs,"Harris, Mr. George",62,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Harris, Mr. Walter",30,10.5,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Hart, Miss. Eva Miriam",7,26.25,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Hart, Mr. Benjamin",43,26.25,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45,26.25,1
+2nd,£50-100,Female,Survived,Southampton,21-30yrs,"Herman, Miss. Alice",24,65,1
+2nd,£50-100,Female,Survived,Southampton,21-30yrs,"Herman, Miss. Kate",24,65,1
+2nd,£50-100,Male,Died,Southampton,41-50yrs,"Herman, Mr. Samuel",49,65,1
+2nd,£50-100,Female,Survived,Southampton,41-50yrs,"Herman, Mrs. Samuel (Jane Laver)",48,65,1
+2nd,<£50,Female,Survived,Southampton,51-60yrs,"Hewlett, Mrs. (Mary D Kingcome)",55,16,1
+2nd,£50-100,Male,Died,Southampton,21-30yrs,"Hickman, Mr. Leonard Mark",24,73.5,1
+2nd,£50-100,Male,Died,Southampton,31-40yrs,"Hickman, Mr. Lewis",32,73.5,1
+2nd,£50-100,Male,Died,Southampton,21-30yrs,"Hickman, Mr. Stanley George",21,73.5,1
+2nd,<£50,Female,Died,Southampton,11-20yrs,"Hiltunen, Miss. Marta",18,13,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Hocking, Miss. Ellen ""Nellie""",20,23,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Hocking, Mr. Richard George",23,11.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Hocking, Mr. Samuel James Metcalfe",36,13,1
+2nd,<£50,Female,Survived,Southampton,51-60yrs,"Hocking, Mrs. Elizabeth (Eliza Needs)",54,23,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Hodges, Mr. Henry Price",50,13,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Hold, Mr. Stephen",44,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Hold, Mrs. Stephen (Annie Margaret Hill)",29,26,1
+2nd,£50-100,Male,Died,Southampton,21-30yrs,"Hood, Mr. Ambrose Jr",21,73.5,1
+2nd,<£50,Male,Survived,Southampton,41-50yrs,"Hosono, Mr. Masabumi",42,13,1
+2nd,<£50,Male,Died,Southampton,61-70yrs,"Howard, Mr. Benjamin",63,26,1
+2nd,<£50,Female,Died,Southampton,51-60yrs,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",60,26,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Hunt, Mr. George Henry",33,12.275,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Ilett, Miss. Bertha",17,10.5,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Jacobsohn, Mr. Sidney Samuel",42,27,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24,27,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Jarvis, Mr. John Denzil",47,15,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Jefferys, Mr. Clifford Thomas",24,31.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Jefferys, Mr. Ernest Wilfred",22,31.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Jenkin, Mr. Stephen Curnow",32,10.5,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23,13.7917,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Kantor, Mr. Sinai",34,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Kantor, Mrs. Sinai (Miriam Sternin)",24,26,1
+2nd,<£50,Female,Died,Southampton,21-30yrs,"Karnes, Mrs. J Frank (Claire Bennett)",22,21,1
+2nd,<£50,Female,Survived,Queenstown,Age Unknown,"Keane, Miss. Nora A",,12.35,1
+2nd,<£50,Male,Died,Queenstown,31-40yrs,"Keane, Mr. Daniel",35,12.35,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Kelly, Mrs. Florence ""Fannie""",45,13.5,1
+2nd,<£50,Male,Died,Queenstown,51-60yrs,"Kirkland, Rev. Charles Leonard",57,12.35,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Knight, Mr. Robert J",,0,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Kvillner, Mr. Johan Henrik Johannesson",31,10.5,1
+2nd,<£50,Female,Died,Southampton,21-30yrs,"Lahtinen, Mrs. William (Anna Sylfven)",26,26,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Lahtinen, Rev. William",30,26,1
+2nd,<£50,Male,Died,Queenstown,Age Unknown,"Lamb, Mr. John Joseph",,10.7083,1
+2nd,<£50,Female,Survived,Cherbourg,1-10yrs,"Laroche, Miss. Louise",1,41.5792,1
+2nd,<£50,Female,Survived,Cherbourg,1-10yrs,"Laroche, Miss. Simonne Marie Anne Andree",3,41.5792,1
+2nd,<£50,Male,Died,Cherbourg,21-30yrs,"Laroche, Mr. Joseph Philippe Lemercier",25,41.5792,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22,41.5792,1
+2nd,<£50,Female,Survived,Cherbourg,11-20yrs,"Lehmann, Miss. Bertha",17,12,1
+2nd,<£50,Female,Survived,Southampton,Age Unknown,"Leitch, Miss. Jessie Wills",,33,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Lemore, Mrs. (Amelia Milley)",34,10.5,1
+2nd,<£50,Male,Died,Cherbourg,31-40yrs,"Levy, Mr. Rene Jacques",36,12.875,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Leyson, Mr. Robert William Norman",24,10.5,1
+2nd,<£50,Male,Died,Queenstown,61-70yrs,"Lingane, Mr. John",61,12.35,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Louch, Mr. Charles Alexander",50,26,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42,26,1
+2nd,<£50,Female,Died,Southampton,51-60yrs,"Mack, Mrs. (Mary)",57,10.5,1
+2nd,<£50,Male,Died,Cherbourg,Age Unknown,"Malachard, Mr. Noel",,15.0458,1
+2nd,<£50,Male,Survived,Cherbourg,1-10yrs,"Mallet, Master. Andre",1,37.0042,1
+2nd,<£50,Male,Died,Cherbourg,31-40yrs,"Mallet, Mr. Albert",31,37.0042,1
+2nd,<£50,Female,Survived,Cherbourg,21-30yrs,"Mallet, Mrs. Albert (Antoinette Magnin)",24,37.0042,1
+2nd,<£50,Male,Died,Cherbourg,Age Unknown,"Mangiavacchi, Mr. Serafino Emilio",,15.5792,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Matthews, Mr. William John",30,13,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Maybery, Mr. Frank Hubert",40,16,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"McCrae, Mr. Arthur Gordon",32,13.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"McCrie, Mr. James Matthew",30,13,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"McKane, Mr. Peter David",46,26,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Mellinger, Miss. Madeleine Violet",13,19.5,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Mellinger, Mrs. (Elizabeth Anne Maidment)",41,19.5,1
+2nd,<£50,Male,Survived,Southampton,11-20yrs,"Mellors, Mr. William John",19,10.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Meyer, Mr. August",39,13,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Milling, Mr. Jacob Christian",48,13,1
+2nd,<£50,Male,Died,Southampton,61-70yrs,"Mitchell, Mr. Henry Michael",70,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Montvila, Rev. Juozas",27,13,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Moraweck, Dr. Ernest",54,14,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",39,26,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Mudd, Mr. Thomas Charles",16,10.5,1
+2nd,<£50,Male,Died,Queenstown,61-70yrs,"Myles, Mr. Thomas Francis",62,9.6875,1
+2nd,<£50,Male,Died,Cherbourg,31-40yrs,"Nasser, Mr. Nicholas",32.5,30.0708,1
+2nd,<£50,Female,Survived,Cherbourg,11-20yrs,"Nasser, Mrs. Nicholas (Adele Achem)",14,30.0708,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Navratil, Master. Edmond Roger",2,26,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Navratil, Master. Michel M",3,26,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Navratil, Mr. Michel (""Louis M Hoffman"")",36.5,26,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Nesson, Mr. Israel",26,13,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Nicholls, Mr. Joseph Charles",19,36.75,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Norman, Mr. Robert Douglas",28,13.5,1
+2nd,<£50,Male,Survived,Cherbourg,11-20yrs,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",20,13.8625,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Nye, Mrs. (Elizabeth Ramell)",29,10.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Otter, Mr. Richard",39,13,1
+2nd,<£50,Male,Survived,Southampton,21-30yrs,"Oxenham, Mr. Percy Thomas",22,10.5,1
+2nd,<£50,Male,Survived,Cherbourg,Age Unknown,"Padro y Manent, Mr. Julian",,13.8625,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Pain, Dr. Alfred",23,10.5,1
+2nd,<£50,Male,Survived,Cherbourg,21-30yrs,"Pallas y Castello, Mr. Emilio",29,13.8583,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Parker, Mr. Clifford Richard",28,10.5,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Parkes, Mr. Francis ""Frank""",,0,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Parrish, Mrs. (Lutie Davis)",50,26,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Pengelly, Mr. Frederick William",19,10.5,1
+2nd,<£50,Male,Died,Cherbourg,Age Unknown,"Pernot, Mr. Rene",,15.05,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Peruschitz, Rev. Joseph Maria",41,13,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Phillips, Miss. Alice Frances Louisa",21,21,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19,26,1
+2nd,<£50,Male,Died,Southampton,41-50yrs,"Phillips, Mr. Escott Robert",43,21,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Pinsky, Mrs. (Rosa)",32,13,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Ponesell, Mr. Martin",34,13,1
+2nd,<£50,Male,Survived,Cherbourg,21-30yrs,"Portaluppi, Mr. Emilio Ilario Giuseppe",30,12.7375,1
+2nd,<£50,Male,Died,Cherbourg,21-30yrs,"Pulbaum, Mr. Franz",27,15.0333,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Quick, Miss. Phyllis May",2,26,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Quick, Miss. Winifred Vera",8,26,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Quick, Mrs. Frederick Charles (Jane Richards)",33,26,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Reeves, Mr. David",36,10.5,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Renouf, Mr. Peter Henry",34,21,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30,21,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Reynaldo, Ms. Encarnacion",28,13,1
+2nd,<£50,Male,Died,Cherbourg,21-30yrs,"Richard, Mr. Emile",23,15.0458,1
+2nd,<£50,Male,Survived,Southampton,<1yrs,"Richards, Master. George Sibley",0.8333,18.75,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Richards, Master. William Rowe",3,18.75,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Richards, Mrs. Sidney (Emily Hocking)",24,18.75,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Ridsdale, Miss. Lucy",50,10.5,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Rogers, Mr. Reginald Harry",19,10.5,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Rugg, Miss. Emily",21,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Schmidt, Mr. August",26,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Sedgwick, Mr. Charles Frederick Waddington",25,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Sharp, Mr. Percival James R",27,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Shelley, Mrs. William (Imanita Parrish Hall)",25,26,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Silven, Miss. Lyyli Karoliina",18,13,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Sincock, Miss. Maude",20,36.75,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Sinkkonen, Miss. Anna",30,13,1
+2nd,<£50,Male,Died,Southampton,51-60yrs,"Sjostedt, Mr. Ernst Adolf",59,13.5,1
+2nd,<£50,Female,Survived,Queenstown,21-30yrs,"Slayter, Miss. Hilda Mary",30,12.35,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Slemen, Mr. Richard James",35,10.5,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Smith, Miss. Marion Elsie",40,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Sobey, Mr. Samuel James Hayden",25,13,1
+2nd,<£50,Male,Died,Cherbourg,41-50yrs,"Stanton, Mr. Samuel Ward",41,15.0458,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Stokes, Mr. Philip Joseph",25,10.5,1
+2nd,<£50,Male,Died,Southampton,11-20yrs,"Swane, Mr. George",18.5,13,1
+2nd,£50-100,Male,Died,Southampton,11-20yrs,"Sweet, Mr. George Frederick",14,65,1
+2nd,<£50,Female,Survived,Southampton,41-50yrs,"Toomey, Miss. Ellen",50,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Troupiansky, Mr. Moses Aaron",23,13,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Trout, Mrs. William H (Jessie L)",28,12.65,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Troutt, Miss. Edwina Celia ""Winnie""",27,10.5,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Turpin, Mr. William John Robert",29,21,1
+2nd,<£50,Female,Died,Southampton,21-30yrs,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27,21,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"Veal, Mr. James",40,13,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Walcroft, Miss. Nellie",31,21,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Ware, Mr. John James",30,21,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Ware, Mr. William Jeffery",23,10.5,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Ware, Mrs. John James (Florence Louise Long)",31,21,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Watson, Mr. Ennis Hastings",,0,1
+2nd,<£50,Female,Survived,Southampton,11-20yrs,"Watt, Miss. Bertha J",12,15.75,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40,15.75,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"Webber, Miss. Susan",32.5,13,1
+2nd,<£50,Male,Died,Southampton,21-30yrs,"Weisz, Mr. Leopold",27,26,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29,26,1
+2nd,<£50,Male,Survived,Southampton,1-10yrs,"Wells, Master. Ralph Lester",2,23,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"Wells, Miss. Joan",4,23,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",29,23,1
+2nd,<£50,Female,Survived,Southampton,<1yrs,"West, Miss. Barbara J",0.9167,27.75,1
+2nd,<£50,Female,Survived,Southampton,1-10yrs,"West, Miss. Constance Mirium",5,27.75,1
+2nd,<£50,Male,Died,Southampton,31-40yrs,"West, Mr. Edwy Arthur",36,27.75,1
+2nd,<£50,Female,Survived,Southampton,31-40yrs,"West, Mrs. Edwy Arthur (Ada Mary Worth)",33,27.75,1
+2nd,<£50,Male,Died,Southampton,61-70yrs,"Wheadon, Mr. Edward H",66,10.5,1
+2nd,<£50,Male,Died,Southampton,Age Unknown,"Wheeler, Mr. Edwin ""Frederick""",,12.875,1
+2nd,<£50,Male,Survived,Southampton,31-40yrs,"Wilhelms, Mr. Charles",31,13,1
+2nd,<£50,Male,Survived,Southampton,Age Unknown,"Williams, Mr. Charles Eugene",,13,1
+2nd,<£50,Female,Survived,Southampton,21-30yrs,"Wright, Miss. Marion",26,13.5,1
+2nd,<£50,Female,Died,Southampton,21-30yrs,"Yrois, Miss. Henriette (""Mrs Harbeck"")",24,13,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Abbing, Mr. Anthony",42,7.55,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Abbott, Master. Eugene Joseph",13,20.25,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Abbott, Mr. Rossmore Edward",16,20.25,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Abbott, Mrs. Stanton (Rosa Hunt)",35,20.25,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Abelseth, Miss. Karen Marie",16,7.65,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Abelseth, Mr. Olaus Jorgensen",25,7.65,1
+3rd,<£50,Male,Survived,Southampton,11-20yrs,"Abrahamsson, Mr. Abraham August Johannes",20,7.925,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",18,7.2292,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Adahl, Mr. Mauritz Nils Martin",30,7.25,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Adams, Mr. John",26,8.05,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40,9.475,1
+3rd,<£50,Male,Survived,Southampton,<1yrs,"Aks, Master. Philip Frank",0.8333,9.35,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Aks, Mrs. Sam (Leah Rosen)",18,9.35,1
+3rd,<£50,Male,Survived,Cherbourg,21-30yrs,"Albimona, Mr. Nassef Cassem",26,18.7875,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Alexander, Mr. William",26,7.8875,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Alhomaki, Mr. Ilmari Rudolf",20,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Ali, Mr. Ahmed",24,7.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Ali, Mr. William",25,7.05,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Allen, Mr. William Henry",35,8.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Allum, Mr. Owen George",18,8.3,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Andersen, Mr. Albert Karvin",32,22.525,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Andersen-Jensen, Miss. Carla Christine Nielsine",19,7.8542,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Andersson, Master. Sigvard Harald Elias",4,31.275,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Andersson, Miss. Ebba Iris Alfrida",6,31.275,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Andersson, Miss. Ellis Anna Maria",2,31.275,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Andersson, Miss. Erna Alexandra",17,7.925,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Andersson, Miss. Ida Augusta Margareta",38,7.775,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Andersson, Miss. Ingeborg Constanzia",9,31.275,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Andersson, Miss. Sigrid Elisabeth",11,31.275,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Andersson, Mr. Anders Johan",39,31.275,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Andersson, Mr. August Edvard (""Wennerstrom"")",27,7.7958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Andersson, Mr. Johan Samuel",26,7.775,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39,31.275,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Andreasson, Mr. Paul Edvin",20,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Angheloff, Mr. Minko",26,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Arnold-Franchi, Mr. Josef",25,17.8,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18,17.8,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Aronsson, Mr. Ernst Axel Algot",24,7.775,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Asim, Mr. Adola",35,7.05,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Asplund, Master. Carl Edgar",5,31.3875,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Asplund, Master. Clarence Gustaf Hugo",9,31.3875,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Asplund, Master. Edvin Rojj Felix",3,31.3875,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Asplund, Master. Filip Oscar",13,31.3875,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Asplund, Miss. Lillian Gertrud",5,31.3875,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",40,31.3875,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Asplund, Mr. Johan Charles",23,7.7958,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38,31.3875,1
+3rd,<£50,Female,Survived,Cherbourg,41-50yrs,"Assaf Khalil, Mrs. Mariana (""Miriam"")",45,7.225,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Assaf, Mr. Gerios",21,7.225,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Assam, Mr. Ali",23,7.05,1
+3rd,<£50,Female,Died,Cherbourg,11-20yrs,"Attalah, Miss. Malake",17,14.4583,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Attalah, Mr. Sleiman",30,7.225,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Augustsson, Mr. Albert",23,7.8542,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Ayoub, Miss. Banoura",13,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Baccos, Mr. Raffull",20,7.225,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Backstrom, Mr. Karl Alfred",32,15.85,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33,15.85,1
+3rd,<£50,Female,Survived,Cherbourg,<1yrs,"Baclini, Miss. Eugenie",0.75,19.2583,1
+3rd,<£50,Female,Survived,Cherbourg,<1yrs,"Baclini, Miss. Helene Barbara",0.75,19.2583,1
+3rd,<£50,Female,Survived,Cherbourg,1-10yrs,"Baclini, Miss. Marie Catherine",5,19.2583,1
+3rd,<£50,Female,Survived,Cherbourg,21-30yrs,"Baclini, Mrs. Solomon (Latifa Qurban)",24,19.2583,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Badman, Miss. Emily Louisa",18,8.05,1
+3rd,<£50,Male,Died,Cherbourg,31-40yrs,"Badt, Mr. Mohamed",40,7.225,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Balkic, Mr. Cerin",26,7.8958,1
+3rd,<£50,Male,Survived,Cherbourg,11-20yrs,"Barah, Mr. Hanna Assi",20,7.2292,1
+3rd,<£50,Female,Died,Cherbourg,11-20yrs,"Barbara, Miss. Saiide",18,14.4542,1
+3rd,<£50,Female,Died,Cherbourg,41-50yrs,"Barbara, Mrs. (Catherine David)",45,14.4542,1
+3rd,<£50,Female,Died,Queenstown,21-30yrs,"Barry, Miss. Julia",27,7.8792,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Barton, Mr. David John",22,8.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Beavan, Mr. William Thomas",19,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Bengtsson, Mr. John Viktor",26,7.775,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Berglund, Mr. Karl Ivar Sven",22,9.35,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Betros, Master. Seman",,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Betros, Mr. Tannous",20,4.0125,1
+3rd,£50-100,Male,Survived,Southampton,31-40yrs,"Bing, Mr. Lee",32,56.4958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Birkeland, Mr. Hans Martin Monsen",21,7.775,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Bjorklund, Mr. Ernst Herbert",18,7.75,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Bostandyeff, Mr. Guentcho",26,7.8958,1
+3rd,<£50,Male,Died,Cherbourg,1-10yrs,"Boulos, Master. Akar",6,15.2458,1
+3rd,<£50,Female,Died,Cherbourg,1-10yrs,"Boulos, Miss. Nourelain",9,15.2458,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Boulos, Mr. Hanna",,7.225,1
+3rd,<£50,Female,Died,Cherbourg,Age Unknown,"Boulos, Mrs. Joseph (Sultana)",,15.2458,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Bourke, Miss. Mary",,7.75,1
+3rd,<£50,Male,Died,Queenstown,31-40yrs,"Bourke, Mr. John",40,15.5,1
+3rd,<£50,Female,Died,Queenstown,31-40yrs,"Bourke, Mrs. John (Catherine)",32,15.5,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Bowen, Mr. David John ""Dai""",21,16.1,1
+3rd,<£50,Female,Survived,Queenstown,21-30yrs,"Bradley, Miss. Bridget Delia",22,7.725,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Braf, Miss. Elin Ester Maria",20,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Braund, Mr. Lewis Richard",29,7.0458,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Braund, Mr. Owen Harris",22,7.25,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Brobeck, Mr. Karl Rudolf",22,7.7958,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Brocklebank, Mr. William Alfred",35,8.05,1
+3rd,<£50,Female,Died,Queenstown,11-20yrs,"Buckley, Miss. Katherine",18.5,7.2833,1
+3rd,<£50,Male,Survived,Queenstown,21-30yrs,"Buckley, Mr. Daniel",21,7.8208,1
+3rd,<£50,Male,Died,Queenstown,11-20yrs,"Burke, Mr. Jeremiah",19,6.75,1
+3rd,<£50,Female,Died,Queenstown,11-20yrs,"Burns, Miss. Mary Delia",18,7.8792,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Cacic, Miss. Manda",21,8.6625,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Cacic, Miss. Marija",30,8.6625,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Cacic, Mr. Jego Grga",18,8.6625,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Cacic, Mr. Luka",38,8.6625,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Calic, Mr. Jovo",17,8.6625,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Calic, Mr. Petar",17,8.6625,1
+3rd,<£50,Female,Died,Queenstown,21-30yrs,"Canavan, Miss. Mary",21,7.75,1
+3rd,<£50,Male,Died,Queenstown,21-30yrs,"Canavan, Mr. Patrick",21,7.75,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Cann, Mr. Ernest Charles",21,8.05,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Caram, Mr. Joseph",,14.4583,1
+3rd,<£50,Female,Died,Cherbourg,Age Unknown,"Caram, Mrs. Joseph (Maria Elias)",,14.4583,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Carlsson, Mr. August Sigfrid",28,7.7958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Carlsson, Mr. Carl Robert",24,7.8542,1
+3rd,<£50,Female,Survived,Queenstown,11-20yrs,"Carr, Miss. Helen ""Ellen""",16,7.75,1
+3rd,<£50,Female,Died,Queenstown,31-40yrs,"Carr, Miss. Jeannie",37,7.75,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Carver, Mr. Alfred John",28,7.25,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Celotti, Mr. Francesco",24,8.05,1
+3rd,<£50,Male,Died,Queenstown,21-30yrs,"Charters, Mr. David",21,7.7333,1
+3rd,£50-100,Male,Survived,Southampton,31-40yrs,"Chip, Mr. Chang",32,56.4958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Christmann, Mr. Emil",29,8.05,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Chronopoulos, Mr. Apostolos",26,14.4542,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Chronopoulos, Mr. Demetrios",18,14.4542,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Coelho, Mr. Domingos Fernandeo",20,7.05,1
+3rd,<£50,Male,Survived,Southampton,11-20yrs,"Cohen, Mr. Gurshon ""Gus""",18,8.05,1
+3rd,<£50,Male,Died,Queenstown,21-30yrs,"Colbert, Mr. Patrick",24,7.25,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Coleff, Mr. Peju",36,7.4958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Coleff, Mr. Satio",24,7.4958,1
+3rd,<£50,Male,Died,Queenstown,31-40yrs,"Conlon, Mr. Thomas Henry",31,7.7333,1
+3rd,<£50,Male,Died,Queenstown,31-40yrs,"Connaghton, Mr. Michael",31,7.75,1
+3rd,<£50,Female,Survived,Queenstown,21-30yrs,"Connolly, Miss. Kate",22,7.75,1
+3rd,<£50,Female,Died,Queenstown,21-30yrs,"Connolly, Miss. Kate",30,7.6292,1
+3rd,<£50,Male,Died,Queenstown,71-80yrs,"Connors, Mr. Patrick",70.5,7.75,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Cook, Mr. Jacob",43,8.05,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Cor, Mr. Bartol",35,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Cor, Mr. Ivan",27,7.8958,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Cor, Mr. Liudevit",19,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Corn, Mr. Harry",30,8.05,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Coutts, Master. Eden Leslie ""Neville""",9,15.9,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Coutts, Master. William Loch ""William""",3,15.9,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",36,15.9,1
+3rd,<£50,Male,Died,Southampton,51-60yrs,"Coxon, Mr. Daniel",59,7.25,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Crease, Mr. Ernest James",19,8.1583,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Cribb, Miss. Laura Alice",17,16.1,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Cribb, Mr. John Hatfield",44,16.1,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Culumovic, Mr. Jeso",17,8.6625,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Daher, Mr. Shedid",22.5,7.225,1
+3rd,<£50,Male,Survived,Southampton,41-50yrs,"Dahl, Mr. Karl Edwart",45,8.05,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Dahlberg, Miss. Gerda Ulrika",22,10.5167,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Dakic, Mr. Branko",19,10.1708,1
+3rd,<£50,Female,Survived,Queenstown,21-30yrs,"Daly, Miss. Margaret Marcella ""Maggie""",30,6.95,1
+3rd,<£50,Male,Survived,Queenstown,21-30yrs,"Daly, Mr. Eugene Patrick",29,7.75,1
+3rd,<£50,Male,Died,Southampton,<1yrs,"Danbom, Master. Gilbert Sigvard Emanuel",0.3333,14.4,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Danbom, Mr. Ernst Gilbert",34,14.4,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28,14.4,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Danoff, Mr. Yoto",27,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Dantcheff, Mr. Ristiu",25,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Davies, Mr. Alfred J",24,24.15,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Davies, Mr. Evan",22,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Davies, Mr. John Samuel",21,24.15,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Davies, Mr. Joseph",17,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Davison, Mr. Thomas Henry",,16.1,1
+3rd,<£50,Female,Survived,Southampton,Age Unknown,"Davison, Mrs. Thomas Henry (Mary E Finck)",,16.1,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"de Messemaeker, Mr. Guillaume Joseph",36.5,17.4,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36,17.4,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"de Mulder, Mr. Theodore",30,9.5,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"de Pelsmaeker, Mr. Alfons",16,9.5,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Dean, Master. Bertram Vere",1,20.575,1
+3rd,<£50,Female,Survived,Southampton,<1yrs,"Dean, Miss. Elizabeth Gladys ""Millvina""",0.1667,20.575,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Dean, Mr. Bertram Frank",26,20.575,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Dean, Mrs. Bertram (Eva Georgetta Light)",33,20.575,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Delalic, Mr. Redjo",25,7.8958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Demetri, Mr. Marinko",,7.8958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Denkoff, Mr. Mitto",,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Dennis, Mr. Samuel",22,7.25,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Dennis, Mr. William",36,7.25,1
+3rd,<£50,Female,Survived,Queenstown,11-20yrs,"Devaney, Miss. Margaret Delia",19,7.8792,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Dika, Mr. Mirko",17,7.8958,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Dimic, Mr. Jovan",42,8.6625,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Dintcheff, Mr. Valtcho",43,7.8958,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Doharr, Mr. Tannous",,7.2292,1
+3rd,<£50,Male,Died,Queenstown,31-40yrs,"Dooley, Mr. Patrick",32,7.75,1
+3rd,<£50,Male,Survived,Southampton,11-20yrs,"Dorking, Mr. Edward Arthur",19,8.05,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Dowdell, Miss. Elizabeth",30,12.475,1
+3rd,<£50,Female,Died,Queenstown,21-30yrs,"Doyle, Miss. Elizabeth",24,7.75,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Drapkin, Miss. Jennie",23,8.05,1
+3rd,<£50,Male,Died,Cherbourg,31-40yrs,"Drazenoic, Mr. Jozef",33,7.8958,1
+3rd,<£50,Male,Died,Queenstown,61-70yrs,"Duane, Mr. Frank",65,7.75,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Duquemin, Mr. Joseph",24,7.55,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Dyker, Mr. Adolf Fredrik",23,13.9,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",22,13.9,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Edvardsson, Mr. Gustaf Hjalmar",18,7.775,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Eklund, Mr. Hans Linus",16,7.775,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Ekstrom, Mr. Johan",45,6.975,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Elias, Mr. Dibo",,7.225,1
+3rd,<£50,Male,Died,Cherbourg,31-40yrs,"Elias, Mr. Joseph",39,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Elias, Mr. Joseph Jr",17,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Elias, Mr. Tannous",15,7.2292,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Elsbury, Mr. William James",47,7.25,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Emanuel, Miss. Virginia Ethel",5,12.475,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Emir, Mr. Farred Chehab",,7.225,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Everett, Mr. Thomas James",40.5,15.1,1
+3rd,<£50,Male,Died,Queenstown,41-50yrs,"Farrell, Mr. James",40.5,7.75,1
+3rd,<£50,Male,Survived,Southampton,Age Unknown,"Finoli, Mr. Luigi",,7.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Fischer, Mr. Eberhard Thelander",18,7.7958,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Fleming, Miss. Honora",,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Flynn, Mr. James",,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Flynn, Mr. John",,6.95,1
+3rd,<£50,Male,Died,Queenstown,21-30yrs,"Foley, Mr. Joseph",26,7.8792,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Foley, Mr. William",,7.75,1
+3rd,£50-100,Male,Survived,Southampton,Age Unknown,"Foo, Mr. Choong",,56.4958,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Ford, Miss. Doolina Margaret ""Daisy""",21,34.375,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Ford, Miss. Robina Maggie ""Ruby""",9,34.375,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Ford, Mr. Arthur",,8.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Ford, Mr. Edward Watson",18,34.375,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Ford, Mr. William Neal",16,34.375,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Ford, Mrs. Edward (Margaret Ann Watson)",48,34.375,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Fox, Mr. Patrick",,7.75,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Franklin, Mr. Charles (Charles Fardon)",,7.25,1
+3rd,<£50,Male,Died,Queenstown,21-30yrs,"Gallagher, Mr. Martin",25,7.7417,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Garfirth, Mr. John",,14.5,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Gheorgheff, Mr. Stanio",,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Gilinski, Mr. Eliezer",22,8.05,1
+3rd,<£50,Female,Survived,Queenstown,11-20yrs,"Gilnagh, Miss. Katherine ""Katie""",16,7.7333,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Glynn, Miss. Mary Agatha",,7.75,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Goldsmith, Master. Frank John William ""Frankie""",9,20.525,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Goldsmith, Mr. Frank John",33,20.525,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Goldsmith, Mr. Nathan",41,7.85,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31,20.525,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Goncalves, Mr. Manuel Estanslas",38,7.05,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Goodwin, Master. Harold Victor",9,46.9,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Goodwin, Master. Sidney Leonard",1,46.9,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Goodwin, Master. William Frederick",11,46.9,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Goodwin, Miss. Jessie Allis",10,46.9,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Goodwin, Miss. Lillian Amy",16,46.9,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Goodwin, Mr. Charles Edward",14,46.9,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Goodwin, Mr. Charles Frederick",40,46.9,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Goodwin, Mrs. Frederick (Augusta Tyler)",43,46.9,1
+3rd,<£50,Male,Died,Southampton,51-60yrs,"Green, Mr. George Henry",51,8.05,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Gronnestad, Mr. Daniel Danielsen",32,8.3625,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Guest, Mr. Robert",,8.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Gustafsson, Mr. Alfred Ossian",20,9.8458,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Gustafsson, Mr. Anders Vilhelm",37,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Gustafsson, Mr. Johan Birger",28,7.925,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Gustafsson, Mr. Karl Gideon",19,7.775,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Haas, Miss. Aloisia",24,8.85,1
+3rd,<£50,Female,Died,Queenstown,11-20yrs,"Hagardon, Miss. Kate",17,7.7333,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Hagland, Mr. Ingvald Olai Olsen",,19.9667,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Hagland, Mr. Konrad Mathias Reiersen",,19.9667,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Hakkarainen, Mr. Pekka Pietari",28,15.85,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24,15.85,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Hampe, Mr. Leon",20,9.5,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Hanna, Mr. Mansour",23.5,7.2292,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Hansen, Mr. Claus Peter",41,14.1083,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Hansen, Mr. Henrik Juul",26,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Hansen, Mr. Henry Damsgaard",21,7.8542,1
+3rd,<£50,Female,Survived,Southampton,41-50yrs,"Hansen, Mrs. Claus Peter (Jennie L Howard)",45,14.1083,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Harknett, Miss. Alice Phoebe",,7.55,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Harmer, Mr. Abraham (David Lishin)",25,7.25,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Hart, Mr. Henry",,6.8583,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Hassan, Mr. Houssein G N",11,18.7875,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Healy, Miss. Hanora ""Nora""",,7.75,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Hedman, Mr. Oskar Arvid",27,6.975,1
+3rd,£50-100,Male,Survived,Southampton,Age Unknown,"Hee, Mr. Ling",,56.4958,1
+3rd,<£50,Female,Died,Queenstown,11-20yrs,"Hegarty, Miss. Hanora ""Nora""",18,6.75,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Heikkinen, Miss. Laina",26,7.925,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Heininen, Miss. Wendla Maria",23,7.925,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Hellstrom, Miss. Hilda Maria",22,8.9625,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Hendekovic, Mr. Ignjac",28,7.8958,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Henriksson, Miss. Jenny Lovisa",28,7.775,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Henry, Miss. Delia",,7.75,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Hirvonen, Miss. Hildur E",2,12.2875,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",22,12.2875,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Holm, Mr. John Fredrik Alexander",43,6.45,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Holthen, Mr. Johan Martin",28,22.525,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Honkanen, Miss. Eliina",27,7.925,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Horgan, Mr. John",,7.75,1
+3rd,<£50,Female,Survived,Southampton,Age Unknown,"Howard, Miss. May Elizabeth",,8.05,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42,7.65,1
+3rd,<£50,Male,Survived,Southampton,Age Unknown,"Hyman, Mr. Abraham",,7.8875,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Ibrahim Shawah, Mr. Yousseff",30,7.2292,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Ilieff, Mr. Ylio",,7.8958,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Ilmakangas, Miss. Ida Livija",27,7.925,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Ilmakangas, Miss. Pieta Sofia",25,7.925,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Ivanoff, Mr. Kanio",,7.8958,1
+3rd,<£50,Male,Survived,Cherbourg,21-30yrs,"Jalsevac, Mr. Ivan",29,7.8958,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Jansson, Mr. Carl Olof",21,7.7958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Jardin, Mr. Jose Neto",,7.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Jensen, Mr. Hans Peder",20,7.8542,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Jensen, Mr. Niels Peder",48,7.8542,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Jensen, Mr. Svend Lauritz",17,7.0542,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Jermyn, Miss. Annie",,7.75,1
+3rd,<£50,Male,Survived,Southampton,Age Unknown,"Johannesen-Bratthammer, Mr. Bernt",,8.1125,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Johanson, Mr. Jakob Alfred",34,6.4958,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Johansson Palmquist, Mr. Oskar Leander",26,7.775,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Johansson, Mr. Erik",22,7.7958,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Johansson, Mr. Gustaf Joel",33,8.6542,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Johansson, Mr. Karl Johan",31,7.775,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Johansson, Mr. Nils",29,7.8542,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Johnson, Master. Harold Theodor",4,11.1333,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Johnson, Miss. Eleanor Ileen",1,11.1333,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Johnson, Mr. Alfred",49,0,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Johnson, Mr. Malkolm Joackim",33,7.775,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Johnson, Mr. William Cahoone Jr",19,0,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27,11.1333,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Johnston, Master. William Arthur ""Willie""",,23.45,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Johnston, Miss. Catherine Helen ""Carrie""",,23.45,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Johnston, Mr. Andrew G",,23.45,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",,23.45,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Jonkoff, Mr. Lalio",23,7.8958,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Jonsson, Mr. Carl",32,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Jonsson, Mr. Nils Hilding",27,7.8542,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Jussila, Miss. Katriina",20,9.825,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Jussila, Miss. Mari Aina",21,9.825,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Jussila, Mr. Eiriik",32,7.925,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Kallio, Mr. Nikolai Erland",17,7.125,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Kalvik, Mr. Johannes Halvorsen",21,8.4333,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Karaic, Mr. Milan",30,7.8958,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Karlsson, Mr. Einar Gervasius",21,7.7958,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Karlsson, Mr. Julius Konrad Eugen",33,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Karlsson, Mr. Nils August",22,7.5208,1
+3rd,<£50,Female,Survived,Cherbourg,1-10yrs,"Karun, Miss. Manca",4,13.4167,1
+3rd,<£50,Male,Survived,Cherbourg,31-40yrs,"Karun, Mr. Franz",39,13.4167,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Kassem, Mr. Fared",,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,11-20yrs,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",18.5,7.2292,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Keane, Mr. Andrew ""Andy""",,7.75,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Keefe, Mr. Arthur",,7.25,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Kelly, Miss. Anna Katherine ""Annie Kate""",,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Kelly, Miss. Mary",,7.75,1
+3rd,<£50,Male,Died,Queenstown,31-40yrs,"Kelly, Mr. James",34.5,7.8292,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Kelly, Mr. James",44,8.05,1
+3rd,<£50,Male,Survived,Queenstown,Age Unknown,"Kennedy, Mr. John",,7.75,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Khalil, Mr. Betros",,14.4542,1
+3rd,<£50,Female,Died,Cherbourg,Age Unknown,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",,14.4542,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Kiernan, Mr. John",,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Kiernan, Mr. Philip",,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Kilgannon, Mr. Thomas J",,7.7375,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Kink, Miss. Maria",22,8.6625,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Kink, Mr. Vincenz",26,8.6625,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Kink-Heilmann, Miss. Luise Gretchen",4,22.025,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Kink-Heilmann, Mr. Anton",29,22.025,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",26,22.025,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Klasen, Miss. Gertrud Emilia",1,12.1833,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Klasen, Mr. Klas Albin",18,7.8542,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",36,12.1833,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Kraeff, Mr. Theodor",,7.8958,1
+3rd,<£50,Male,Survived,Cherbourg,21-30yrs,"Krekorian, Mr. Neshan",25,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Lahoud, Mr. Sarkis",,7.225,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Laitinen, Miss. Kristina Sofia",37,9.5875,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Laleff, Mr. Kristo",,7.8958,1
+3rd,£50-100,Male,Survived,Southampton,Age Unknown,"Lam, Mr. Ali",,56.4958,1
+3rd,£50-100,Male,Died,Southampton,Age Unknown,"Lam, Mr. Len",,56.4958,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Landergren, Miss. Aurora Adelia",22,7.25,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Lane, Mr. Patrick",,7.75,1
+3rd,£50-100,Male,Survived,Southampton,21-30yrs,"Lang, Mr. Fang",26,56.4958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Larsson, Mr. August Viktor",29,9.4833,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Larsson, Mr. Bengt Edvin",29,7.775,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Larsson-Rondberg, Mr. Edvard A",22,7.775,1
+3rd,<£50,Male,Survived,Cherbourg,21-30yrs,"Leeni, Mr. Fahim (""Philip Zenni"")",22,7.225,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Lefebre, Master. Henry Forbes",,25.4667,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Lefebre, Miss. Ida",,25.4667,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Lefebre, Miss. Jeannie",,25.4667,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Lefebre, Miss. Mathilde",,25.4667,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Lefebre, Mrs. Frank (Frances)",,25.4667,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Leinonen, Mr. Antti Gustaf",32,7.925,1
+3rd,<£50,Male,Died,Cherbourg,31-40yrs,"Lemberopolous, Mr. Peter L",34.5,6.4375,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Lennon, Miss. Mary",,15.5,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Lennon, Mr. Denis",,15.5,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Leonard, Mr. Lionel",36,0,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Lester, Mr. James",39,24.15,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Lievens, Mr. Rene Aime",24,9.5,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Lindahl, Miss. Agda Thorilda Viktoria",25,7.775,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Lindblom, Miss. Augusta Charlotta",45,7.75,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Lindell, Mr. Edvard Bengtsson",36,15.55,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",30,15.55,1
+3rd,<£50,Male,Survived,Southampton,11-20yrs,"Lindqvist, Mr. Eino William",20,7.925,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Linehan, Mr. Michael",,7.8792,1
+3rd,£50-100,Male,Died,Southampton,21-30yrs,"Ling, Mr. Lee",28,56.4958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Lithman, Mr. Simon",,7.55,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Lobb, Mr. William Arthur",30,16.1,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",26,16.1,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Lockyer, Mr. Edward",,7.8792,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Lovell, Mr. John Hall (""Henry"")",20.5,7.25,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Lulic, Mr. Nikola",27,8.6625,1
+3rd,<£50,Male,Died,Southampton,51-60yrs,"Lundahl, Mr. Johan Svensson",51,7.0542,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Lundin, Miss. Olga Elida",23,7.8542,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Lundstrom, Mr. Thure Edvin",32,7.5792,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Lyntakoff, Mr. Stanko",,7.8958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"MacKay, Mr. George William",,7.55,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Madigan, Miss. Margaret ""Maggie""",,7.75,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Madsen, Mr. Fridtjof Arne",24,7.1417,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Maenpaa, Mr. Matti Alexanteri",22,7.125,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Mahon, Miss. Bridget Delia",,7.8792,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Mahon, Mr. John",,7.75,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Maisner, Mr. Simon",,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Makinen, Mr. Kalle Edvard",29,7.925,1
+3rd,<£50,Male,Survived,Cherbourg,Age Unknown,"Mamee, Mr. Hanna",,7.2292,1
+3rd,<£50,Female,Died,Queenstown,31-40yrs,"Mangan, Miss. Mary",30.5,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Mannion, Miss. Margareth",,7.7375,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Mardirosian, Mr. Sarkis",,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,31-40yrs,"Markoff, Mr. Marin",35,7.8958,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Markun, Mr. Johann",33,7.8958,1
+3rd,<£50,Female,Survived,Cherbourg,Age Unknown,"Masselmani, Mrs. Fatima",,7.225,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Matinoff, Mr. Nicola",,7.8958,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"McCarthy, Miss. Catherine ""Katie""",,7.75,1
+3rd,<£50,Male,Survived,Queenstown,Age Unknown,"McCormack, Mr. Thomas Joseph",,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"McCoy, Miss. Agnes",,23.25,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"McCoy, Miss. Alicia",,23.25,1
+3rd,<£50,Male,Survived,Queenstown,Age Unknown,"McCoy, Mr. Bernard",,23.25,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"McDermott, Miss. Brigdet Delia",,7.7875,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"McEvoy, Mr. Michael",,15.5,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"McGovern, Miss. Mary",,7.8792,1
+3rd,<£50,Female,Survived,Queenstown,11-20yrs,"McGowan, Miss. Anna ""Annie""",15,8.0292,1
+3rd,<£50,Female,Died,Queenstown,31-40yrs,"McGowan, Miss. Katherine",35,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"McMahon, Mr. Martin",,7.75,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"McNamee, Mr. Neal",24,16.1,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"McNamee, Mrs. Neal (Eileen O'Leary)",19,16.1,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"McNeill, Miss. Bridget",,7.75,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Meanwell, Miss. (Marion Ogden)",,8.05,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Meek, Mrs. Thomas (Annie Louise Rowley)",,8.05,1
+3rd,<£50,Male,Died,Southampton,51-60yrs,"Meo, Mr. Alfonzo",55.5,8.05,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Mernagh, Mr. Robert",,7.75,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Midtsjo, Mr. Karl Albert",21,7.775,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Miles, Mr. Frank",,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Mineff, Mr. Ivan",24,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Minkoff, Mr. Lazar",21,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Mionoff, Mr. Stoytcho",28,7.8958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Mitkoff, Mr. Mito",,7.8958,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Mockler, Miss. Helen Mary ""Ellie""",,7.8792,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Moen, Mr. Sigurd Hansen",25,7.65,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Moor, Master. Meier",6,12.475,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Moor, Mrs. (Beila)",27,12.475,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Moore, Mr. Leonard Charles",,8.05,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Moran, Miss. Bertha",,24.15,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Moran, Mr. Daniel J",,24.15,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Moran, Mr. James",,8.4583,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Morley, Mr. William",34,8.05,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Morrow, Mr. Thomas Rowan",,7.75,1
+3rd,<£50,Male,Survived,Southampton,Age Unknown,"Moss, Mr. Albert Johan",,7.775,1
+3rd,<£50,Male,Survived,Cherbourg,Age Unknown,"Moubarek, Master. Gerios",,15.2458,1
+3rd,<£50,Male,Survived,Cherbourg,Age Unknown,"Moubarek, Master. Halim Gonios (""William George"")",,15.2458,1
+3rd,<£50,Female,Survived,Cherbourg,Age Unknown,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",,15.2458,1
+3rd,<£50,Female,Survived,Cherbourg,Age Unknown,"Moussa, Mrs. (Mantoura Boulos)",,7.2292,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Moutal, Mr. Rahamin Haim",,8.05,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Mullens, Miss. Katherine ""Katie""",,7.7333,1
+3rd,<£50,Female,Survived,Queenstown,21-30yrs,"Mulvihill, Miss. Bertha E",24,7.75,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Murdlin, Mr. Joseph",,8.05,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Murphy, Miss. Katherine ""Kate""",,15.5,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Murphy, Miss. Margaret Jane",,15.5,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Murphy, Miss. Nora",,15.5,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18,7.75,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Naidenoff, Mr. Penko",22,7.8958,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Najib, Miss. Adele Kiamie ""Jane""",15,7.225,1
+3rd,<£50,Female,Survived,Cherbourg,1-10yrs,"Nakid, Miss. Maria (""Mary"")",1,15.7417,1
+3rd,<£50,Male,Survived,Cherbourg,11-20yrs,"Nakid, Mr. Sahid",20,15.7417,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",19,15.7417,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Nancarrow, Mr. William Henry",33,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Nankoff, Mr. Minko",,7.8958,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Nasr, Mr. Mustafa",,7.2292,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Naughton, Miss. Hannah",,7.75,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Nenkoff, Mr. Christo",,7.8958,1
+3rd,<£50,Male,Survived,Cherbourg,11-20yrs,"Nicola-Yarred, Master. Elias",12,11.2417,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Nicola-Yarred, Miss. Jamila",14,11.2417,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Nieminen, Miss. Manta Josefina",29,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Niklasson, Mr. Samuel",28,8.05,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Nilsson, Miss. Berta Olivia",18,7.775,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Nilsson, Miss. Helmina Josefina",26,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Nilsson, Mr. August Ferdinand",21,7.8542,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Nirva, Mr. Iisakki Antino Aijo",41,7.125,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Niskanen, Mr. Juha",39,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Nosworthy, Mr. Richard Cater",21,7.8,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Novel, Mr. Mansouer",28.5,7.2292,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Nysten, Miss. Anna Sofia",22,7.75,1
+3rd,<£50,Male,Died,Southampton,61-70yrs,"Nysveen, Mr. Johan Hansen",61,6.2375,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"O'Brien, Mr. Thomas",,15.5,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"O'Brien, Mr. Timothy",,7.8292,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",,15.5,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"O'Connell, Mr. Patrick D",,7.7333,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"O'Connor, Mr. Maurice",,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"O'Connor, Mr. Patrick",,7.75,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Odahl, Mr. Nils Martin",23,9.225,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"O'Donoghue, Ms. Bridget",,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"O'Driscoll, Miss. Bridget",,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"O'Dwyer, Miss. Ellen ""Nellie""",,7.8792,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Ohman, Miss. Velin",22,7.775,1
+3rd,<£50,Male,Survived,Queenstown,Age Unknown,"O'Keefe, Mr. Patrick",,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"O'Leary, Miss. Hanora ""Norah""",,7.8292,1
+3rd,<£50,Male,Survived,Southampton,1-10yrs,"Olsen, Master. Artur Karl",9,3.1708,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Olsen, Mr. Henry Margido",28,22.525,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Olsen, Mr. Karl Siegwart Andreas",42,8.4042,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Olsen, Mr. Ole Martin",,7.3125,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Olsson, Miss. Elina",31,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Olsson, Mr. Nils Johan Goransson",28,7.8542,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Olsson, Mr. Oscar Wilhelm",32,7.775,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Olsvigen, Mr. Thor Anderson",20,9.225,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Oreskovic, Miss. Jelka",23,8.6625,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Oreskovic, Miss. Marija",20,8.6625,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Oreskovic, Mr. Luka",20,8.6625,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Osen, Mr. Olaf Elon",16,9.2167,1
+3rd,<£50,Female,Survived,Southampton,31-40yrs,"Osman, Mrs. Mara",31,8.6833,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"O'Sullivan, Miss. Bridget Mary",,7.6292,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Palsson, Master. Gosta Leonard",2,21.075,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Palsson, Master. Paul Folke",6,21.075,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Palsson, Miss. Stina Viola",3,21.075,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Palsson, Miss. Torborg Danira",8,21.075,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29,21.075,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Panula, Master. Eino Viljami",1,39.6875,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Panula, Master. Juha Niilo",7,39.6875,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Panula, Master. Urho Abraham",2,39.6875,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Panula, Mr. Ernesti Arvid",16,39.6875,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Panula, Mr. Jaako Arnold",14,39.6875,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Panula, Mrs. Juha (Maria Emilia Ojala)",41,39.6875,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Pasic, Mr. Jakob",21,8.6625,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Patchett, Mr. George",19,14.5,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Paulner, Mr. Uscher",,8.7125,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Pavlovic, Mr. Stefo",32,7.8958,1
+3rd,<£50,Male,Died,Southampton,<1yrs,"Peacock, Master. Alfred Edward",0.75,13.775,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Peacock, Miss. Treasteall",3,13.775,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Peacock, Mrs. Benjamin (Edith Nile)",26,13.775,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Pearce, Mr. Ernest",,7,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Pedersen, Mr. Olaf",,7.775,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Peduzzi, Mr. Joseph",,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Pekoniemi, Mr. Edvard",21,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Peltomaki, Mr. Nikolai Johannes",25,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Perkin, Mr. John Henry",22,7.25,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Persson, Mr. Ernst Ulrik",25,7.775,1
+3rd,<£50,Male,Survived,Cherbourg,Age Unknown,"Peter, Master. Michael J",,22.3583,1
+3rd,<£50,Female,Survived,Cherbourg,Age Unknown,"Peter, Miss. Anna",,22.3583,1
+3rd,<£50,Female,Survived,Cherbourg,Age Unknown,"Peter, Mrs. Catherine (Catherine Rizk)",,22.3583,1
+3rd,<£50,Female,Died,Queenstown,Age Unknown,"Peters, Miss. Katie",,8.1375,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Petersen, Mr. Marius",24,8.05,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Petranec, Miss. Matilda",28,7.8958,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Petroff, Mr. Nedelio",19,7.8958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Petroff, Mr. Pastcho (""Pentcho"")",,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Petterson, Mr. Johan Emil",25,7.775,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Pettersson, Miss. Ellen Natalia",18,7.775,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Pickard, Mr. Berk (Berk Trembisky)",32,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Plotcharsky, Mr. Vasil",,7.8958,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Pokrnic, Mr. Mate",17,8.6625,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Pokrnic, Mr. Tome",24,8.6625,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Radeff, Mr. Alexander",,7.8958,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",,8.1125,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Razi, Mr. Raihed",,7.2292,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Reed, Mr. James George",,7.25,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Rekic, Mr. Tido",38,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Reynolds, Mr. Harold J",21,8.05,1
+3rd,<£50,Male,Died,Queenstown,1-10yrs,"Rice, Master. Albert",10,29.125,1
+3rd,<£50,Male,Died,Queenstown,1-10yrs,"Rice, Master. Arthur",4,29.125,1
+3rd,<£50,Male,Died,Queenstown,1-10yrs,"Rice, Master. Eric",7,29.125,1
+3rd,<£50,Male,Died,Queenstown,1-10yrs,"Rice, Master. Eugene",2,29.125,1
+3rd,<£50,Male,Died,Queenstown,1-10yrs,"Rice, Master. George Hugh",8,29.125,1
+3rd,<£50,Female,Died,Queenstown,31-40yrs,"Rice, Mrs. William (Margaret Norton)",39,29.125,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",22,39.6875,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Rintamaki, Mr. Matti",35,7.125,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Riordan, Miss. Johanna ""Hannah""",,7.7208,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Risien, Mr. Samuel Beard",,14.5,1
+3rd,<£50,Female,Died,Southampton,Age Unknown,"Risien, Mrs. Samuel (Emma)",,14.5,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Robins, Mr. Alexander A",50,14.5,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Robins, Mrs. Alexander A (Grace Charity Laury)",47,14.5,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Rogers, Mr. William John",,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Rommetvedt, Mr. Knud Paust",,7.775,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Rosblom, Miss. Salli Helena",2,20.2125,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Rosblom, Mr. Viktor Richard",18,20.2125,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41,20.2125,1
+3rd,<£50,Female,Survived,Southampton,Age Unknown,"Roth, Miss. Sarah A",,8.05,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Rouse, Mr. Richard Henry",50,8.05,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Rush, Mr. Alfred George John",16,8.05,1
+3rd,<£50,Male,Survived,Queenstown,Age Unknown,"Ryan, Mr. Edward",,7.75,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Ryan, Mr. Patrick",,24.15,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Saad, Mr. Amin",,7.2292,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Saad, Mr. Khalil",25,7.225,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Saade, Mr. Jean Nassr",,7.225,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Sadlier, Mr. Matthew",,7.7292,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Sadowitz, Mr. Harry",,7.575,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Saether, Mr. Simon Sivertsen",38.5,7.25,1
+3rd,£50-100,Male,Died,Southampton,Age Unknown,"Sage, Master. Thomas Henry",,69.55,1
+3rd,£50-100,Male,Died,Southampton,11-20yrs,"Sage, Master. William Henry",14.5,69.55,1
+3rd,£50-100,Female,Died,Southampton,Age Unknown,"Sage, Miss. Ada",,69.55,1
+3rd,£50-100,Female,Died,Southampton,Age Unknown,"Sage, Miss. Constance Gladys",,69.55,1
+3rd,£50-100,Female,Died,Southampton,Age Unknown,"Sage, Miss. Dorothy Edith ""Dolly""",,69.55,1
+3rd,£50-100,Female,Died,Southampton,Age Unknown,"Sage, Miss. Stella Anna",,69.55,1
+3rd,£50-100,Male,Died,Southampton,Age Unknown,"Sage, Mr. Douglas Bullen",,69.55,1
+3rd,£50-100,Male,Died,Southampton,Age Unknown,"Sage, Mr. Frederick",,69.55,1
+3rd,£50-100,Male,Died,Southampton,Age Unknown,"Sage, Mr. George John Jr",,69.55,1
+3rd,£50-100,Male,Died,Southampton,Age Unknown,"Sage, Mr. John George",,69.55,1
+3rd,£50-100,Female,Died,Southampton,Age Unknown,"Sage, Mrs. John (Annie Bullen)",,69.55,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Salander, Mr. Karl Johan",24,9.325,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Salkjelsvik, Miss. Anna Kristine",21,7.65,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Salonen, Mr. Johan Werner",39,7.925,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Samaan, Mr. Elias",,21.6792,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Samaan, Mr. Hanna",,21.6792,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Samaan, Mr. Youssef",,21.6792,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Sandstrom, Miss. Beatrice Irene",1,16.7,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24,16.7,1
+3rd,<£50,Female,Survived,Southampton,1-10yrs,"Sandstrom, Miss. Marguerite Rut",4,16.7,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Sap, Mr. Julius",25,9.5,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Saundercock, Mr. William Henry",20,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Sawyer, Mr. Frederick Charles",24.5,8.05,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Scanlan, Mr. James",,7.725,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Sdycoff, Mr. Todor",,7.8958,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Shaughnessy, Mr. Patrick",,7.75,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Sheerlinck, Mr. Jan Baptist",29,9.5,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Shellard, Mr. Frederick William",,15.1,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Shine, Miss. Ellen Natalia",,7.7792,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Shorney, Mr. Charles Joseph",,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Simmons, Mr. John",,8.05,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Sirayanian, Mr. Orsen",22,7.2292,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Sirota, Mr. Maurice",,8.05,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Sivic, Mr. Husein",40,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Sivola, Mr. Antti Wilhelm",21,7.925,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Sjoblom, Miss. Anna Sofia",18,7.4958,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Skoog, Master. Harald",4,27.9,1
+3rd,<£50,Male,Died,Southampton,1-10yrs,"Skoog, Master. Karl Thorsten",10,27.9,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Skoog, Miss. Mabel",9,27.9,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Skoog, Miss. Margit Elizabeth",2,27.9,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Skoog, Mr. Wilhelm",40,27.9,1
+3rd,<£50,Female,Died,Southampton,41-50yrs,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",45,27.9,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Slabenoff, Mr. Petco",,7.8958,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Slocovski, Mr. Selman Francis",,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Smiljanic, Mr. Mile",,8.6625,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Smith, Mr. Thomas",,7.75,1
+3rd,<£50,Female,Survived,Queenstown,Age Unknown,"Smyth, Miss. Julia",,7.7333,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Soholt, Mr. Peter Andreas Lauritz Andersen",19,7.65,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Somerton, Mr. Francis William",30,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Spector, Mr. Woolf",,8.05,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Spinner, Mr. Henry John",32,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Staneff, Mr. Ivan",,7.8958,1
+3rd,<£50,Male,Died,Cherbourg,31-40yrs,"Stankovic, Mr. Ivan",33,8.6625,1
+3rd,<£50,Female,Survived,Southampton,21-30yrs,"Stanley, Miss. Amy Zillah Elsie",23,7.55,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Stanley, Mr. Edward Roland",21,8.05,1
+3rd,Unknown,Male,Died,Southampton,61-70yrs,"Storey, Mr. Thomas",60.5,,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Stoytcheff, Mr. Ilia",19,7.8958,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Strandberg, Miss. Ida Sofia",22,9.8375,1
+3rd,<£50,Male,Survived,Southampton,31-40yrs,"Stranden, Mr. Juho",31,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Strilic, Mr. Ivan",27,8.6625,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Strom, Miss. Telma Matilda",2,10.4625,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29,10.4625,1
+3rd,<£50,Male,Survived,Southampton,11-20yrs,"Sunderland, Mr. Victor Francis",16,8.05,1
+3rd,<£50,Male,Survived,Southampton,41-50yrs,"Sundman, Mr. Johan Julian",44,7.925,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Sutehall, Mr. Henry Jr",25,7.05,1
+3rd,<£50,Male,Died,Southampton,71-80yrs,"Svensson, Mr. Johan",74,7.775,1
+3rd,<£50,Male,Survived,Southampton,11-20yrs,"Svensson, Mr. Johan Cervin",14,9.225,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Svensson, Mr. Olof",24,7.7958,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Tenglin, Mr. Gunnar Isidor",25,7.7958,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Theobald, Mr. Thomas Leonard",34,8.05,1
+3rd,<£50,Male,Survived,Cherbourg,<1yrs,"Thomas, Master. Assad Alexander",0.4167,8.5167,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Thomas, Mr. Charles P",,6.4375,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Thomas, Mr. John",,6.4375,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Thomas, Mr. Tannous",,7.225,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",16,8.5167,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Thomson, Mr. Alexander Morrison",,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Thorneycroft, Mr. Percival",,16.1,1
+3rd,<£50,Female,Survived,Southampton,Age Unknown,"Thorneycroft, Mrs. Percival (Florence Kate White)",,16.1,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Tikkanen, Mr. Juho",32,7.925,1
+3rd,<£50,Male,Died,Queenstown,Age Unknown,"Tobin, Mr. Roger",,7.75,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Todoroff, Mr. Lalio",,7.8958,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Tomlin, Mr. Ernest Portage",30.5,8.05,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Torber, Mr. Ernst William",44,8.05,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Torfa, Mr. Assad",,7.2292,1
+3rd,<£50,Male,Survived,Southampton,21-30yrs,"Tornquist, Mr. William Henry",25,0,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Toufik, Mr. Nakli",,7.2292,1
+3rd,<£50,Male,Survived,Cherbourg,1-10yrs,"Touma, Master. Georges Youssef",7,15.2458,1
+3rd,<£50,Female,Survived,Cherbourg,1-10yrs,"Touma, Miss. Maria Youssef",9,15.2458,1
+3rd,<£50,Female,Survived,Cherbourg,21-30yrs,"Touma, Mrs. Darwis (Hanne Youssef Razi)",29,15.2458,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Turcin, Mr. Stjepan",36,7.8958,1
+3rd,<£50,Female,Survived,Southampton,11-20yrs,"Turja, Miss. Anna Sofia",18,9.8417,1
+3rd,<£50,Female,Survived,Southampton,61-70yrs,"Turkula, Mrs. (Hedwig)",63,9.5875,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"van Billiard, Master. James William",,14.5,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"van Billiard, Master. Walter John",11.5,14.5,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"van Billiard, Mr. Austin Blyler",40.5,14.5,1
+3rd,<£50,Female,Died,Southampton,1-10yrs,"Van Impe, Miss. Catharina",10,24.15,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Van Impe, Mr. Jean Baptiste",36,24.15,1
+3rd,<£50,Female,Died,Southampton,21-30yrs,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",30,24.15,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"van Melkebeke, Mr. Philemon",,9.5,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Vande Velde, Mr. Johannes Joseph",33,9.5,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Vande Walle, Mr. Nestor Cyriel",28,9.5,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Vanden Steen, Mr. Leo Peter",28,9.5,1
+3rd,<£50,Male,Died,Southampton,41-50yrs,"Vander Cruyssen, Mr. Victor",47,9,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Vander Planke, Miss. Augusta Maria",18,18,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Vander Planke, Mr. Julius",31,18,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Vander Planke, Mr. Leo Edmondus",16,18,1
+3rd,<£50,Female,Died,Southampton,31-40yrs,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",31,18,1
+3rd,<£50,Male,Survived,Cherbourg,21-30yrs,"Vartanian, Mr. David",22,7.225,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Vendel, Mr. Olof Edvin",20,7.8542,1
+3rd,<£50,Female,Died,Southampton,11-20yrs,"Vestrom, Miss. Hulda Amanda Adolfina",14,7.8542,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Vovk, Mr. Janko",22,7.8958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Waelens, Mr. Achille",22,9,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Ware, Mr. Frederick",,8.05,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Warren, Mr. Charles William",,7.55,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Webber, Mr. James",,8.05,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Wenzel, Mr. Linhart",32.5,9.5,1
+3rd,<£50,Female,Survived,Cherbourg,31-40yrs,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",38,7.2292,1
+3rd,<£50,Male,Died,Southampton,51-60yrs,"Widegren, Mr. Carl/Charles Peter",51,7.75,1
+3rd,<£50,Male,Died,Southampton,11-20yrs,"Wiklund, Mr. Jakob Alfred",18,6.4958,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Wiklund, Mr. Karl Johan",21,6.4958,1
+3rd,<£50,Female,Survived,Southampton,41-50yrs,"Wilkes, Mrs. James (Ellen Needs)",47,7,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Willer, Mr. Aaron (""Abi Weller"")",,8.7125,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Willey, Mr. Edward",,7.55,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Williams, Mr. Howard Hugh ""Harry""",,8.05,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Williams, Mr. Leslie",28.5,16.1,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Windelov, Mr. Einar",21,7.25,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Wirz, Mr. Albert",27,8.6625,1
+3rd,<£50,Male,Died,Southampton,Age Unknown,"Wiseman, Mr. Phillippe",,7.25,1
+3rd,<£50,Male,Died,Southampton,31-40yrs,"Wittevrongel, Mr. Camille",36,9.5,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Yasbeck, Mr. Antoni",27,14.4542,1
+3rd,<£50,Female,Survived,Cherbourg,11-20yrs,"Yasbeck, Mrs. Antoni (Selini Alexander)",15,14.4542,1
+3rd,<£50,Male,Died,Cherbourg,41-50yrs,"Youseff, Mr. Gerious",45.5,7.225,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Yousif, Mr. Wazli",,7.225,1
+3rd,<£50,Male,Died,Cherbourg,Age Unknown,"Yousseff, Mr. Gerious",,14.4583,1
+3rd,<£50,Female,Died,Cherbourg,11-20yrs,"Zabour, Miss. Hileni",14.5,14.4542,1
+3rd,<£50,Female,Died,Cherbourg,Age Unknown,"Zabour, Miss. Thamine",,14.4542,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Zakarian, Mr. Mapriededer",26.5,7.225,1
+3rd,<£50,Male,Died,Cherbourg,21-30yrs,"Zakarian, Mr. Ortin",27,7.225,1
+3rd,<£50,Male,Died,Southampton,21-30yrs,"Zimmerman, Mr. Leo",29,7.875,1
