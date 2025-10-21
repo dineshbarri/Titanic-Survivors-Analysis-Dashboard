@@ -112,10 +112,11 @@ Each record corresponds to an individual passenger and includes the following fi
 🧑‍💻 Author
 
  ### Dinesh Barri
-      Data Analyst & Data Scientist
-     📍 Passionate about transforming data into visual stories using Machine Learning and BI tools.
-        Linkedin : https://www.linkedin.com/in/dinesh-barri/
-📜 License
+     Data Analyst & Data Scientist
+    📍 Passionate about transforming data into visual stories using Machine Learning and BI tools.
+  &nbsp; Linkedin : (https://www.linkedin.com/in/dinesh-barri/) 
+  
+&nbsp;📜 License
 
     This project is released under the MIT License.
     You are free to use, modify, and distribute it with attribution.
